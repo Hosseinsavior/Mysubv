@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Tue-23-Jan-2024 14:40
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Tue-23-Jan-2024 15:53
 ss://a7c513cf-8de1-4eba-9ee4-cc841813981c@nim.webobin.site:8080?path=%2F&amp;security=none&amp;encryption=none&amp;host=fcwfcwcf.com&amp;type=ws#%40networknim
 ss://a7c513cf-8de1-4eba-9ee4-cc841813981c@nim.webobin.site:8080?path=%2F&amp;security=none&amp;encryption=none&amp;host=fcwfcw…
 ss://3e6797e9-16d3-4390-91d7-3e1be61a944a@All.MsV2ray.online:2087?mode=gun&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;fp=chrome&amp;type=grpc&amp;serviceName=@MsV2ray,@MsV2ray,@MsV2ray,@MsV2ray,@MsV2ray,@MsV2ray,@MsV2ray…
@@ -180,6 +180,17 @@ ss://695b6a42-e044-406e-9f55-9778548fdc15@ip.aminivip2023.site:8443/?type=ws&amp
 ss://eyJhZGQiOiJyLm1mLWphbnJvb3owMDEuc3RvcmUiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiNWRiNGM1MWMtNzMwNC00ZjBhLWJiZDgtMDgzZDI1OGMwNGViIiwibmV0IjoiZ3JwYyIsInBhdGgiOiJkZmdoIiwicG9ydCI6IjIwODciLCJwcyIgOiAiRGFpbHlWMnJheeKYgu+4jyjYqtmE2q/Ysdin2YXwn5GJRGFpbHlWMlJZKSIsInNjeSI6ImF1dG8iLCJzbmkiOiJxZXByb2thYWRkZmRoZGhlZWhlaGRoc2dmd2d3Z3NoZGhocjQ4NTQ0ODQ4MTUxNTE4NDgxODE1ZWhyanRqeWx5a2pyc2ZhZGF2c2RiZG5iZGJzdnN2c3ZzZnNmdzU0NTE2MTYyMjY2MjQ1NTE1MTE5MTg0ODc4Nzk2NzY2NDY5MTgxOTE1NDU1MThyaHJoZ2VnZWdlaHJlaGVucXRucWZucWducXRucXRqd3Rqd3R3dG53dG53dG5xZ25xdGp3dGp5d2t3eWxldXJ1bHJ1ZXV5d2t3ZnFkdmRxdmR2cWR2cWRicXIubWYtamFucm9vejAwMS5zdG9yZSIsInRscyI6InRscyIsInR5cGUiOiJndW4iLCJ2IjoiMiJ9
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1RURCVWZMMlEwYlZxNDMyWFhvNUtF@51.104.230.125:51348#%40dailyv2ry%F0%9F%90%A3
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1ZzRGdTc5U0VSRWRGR2x0MnNVeVQ0@95.164.9.144:2927#%40dailyv2ry%F0%9F%90%A3
+ss://695b6a42-e044-406e-9f55-9778548fdc15@ip.aminivip2023.site:8443/?type=ws&amp;path=%2FV2zed&amp;host=ri.aminivip2023.site&amp;security=tls&amp;fp=&amp;alpn=http%2F1.1&amp;sni=ri.aminivip2023.site#DailyV2ray
+ss://695b6a42-e044-406e-9f55-9778548fdc15@ip.aminivip2023.site:8443/?type=ws&amp;path=%2FV2zed&amp;host=ri.aminivip2023.site&amp;security=tls&amp;fp=&amp;alpn=http%2F1.1&amp;sni=ri.aminivip2023.site#DailyV2ray
+ss://695b6a42-e044-406e-9f55-9778548fdc15@ip.aminivip2023.site:8443/?type=ws&amp;path=%2FV2zed&amp;host=ri.aminivip2023.site&amp;security=tls&amp;fp=&amp;alpn=http%2F1.1&amp;sni=ri.aminivip2023.site#DailyV2ray
+ss://695b6a42-e044-406e-9f55-9778548fdc15@ip.aminivip2023.site:8443/?type=ws&amp;path=%2FV2zed&amp;host=ri.aminivip2023.site&amp;security=tls&amp;fp=&amp;alpn=http%2F1.1&amp;sni=ri.aminivip2023.site#DailyV2ray
+ss://695b6a42-e044-406e-9f55-9778548fdc15@ip.aminivip2023.site:8443/?type=ws&amp;path=%2FV2zed&amp;host=ri.aminivip2023.site&amp;security=tls&amp;fp=&amp;alpn=http%2F1.1&amp;sni=ri.aminivip2023.site#DailyV2ray
+ss://695b6a42-e044-406e-9f55-9778548fdc15@ip.aminivip2023.site:8443/?type=ws&amp;path=%2FV2zed&amp;host=ri.aminivip2023.site&amp;security=tls&amp;fp=&amp;alpn=http%2F1.1&amp;sni=ri.aminivip2023.site#DailyV2ray
+ss://695b6a42-e044-406e-9f55-9778548fdc15@ip.aminivip2023.site:8443/?type=ws&amp;path=%2FV2zed&amp;host=ri.aminivip2023.site&amp;security=tls&amp;fp=&amp;alpn=http%2F1.1&amp;sni=ri.aminivip2023.site#DailyV2ray
+ss://695b6a42-e044-406e-9f55-9778548fdc15@ip.aminivip2023.site:8443/?type=ws&amp;path=%2FV2zed&amp;host=ri.aminivip2023.site&amp;security=tls&amp;fp=&amp;alpn=http%2F1.1&amp;sni=ri.aminivip2023.site#DailyV2ray
+ss://695b6a42-e044-406e-9f55-9778548fdc15@ip.aminivip2023.site:8443/?type=ws&amp;path=%2FV2zed&amp;host=ri.aminivip2023.site&amp;security=tls&amp;fp=&amp;alpn=http%2F1.1&amp;sni=ri.aminivip2023.site#DailyV2ray
+ss://695b6a42-e044-406e-9f55-9778548fdc15@ip.aminivip2023.site:8443/?type=ws&amp;path=%2FV2zed&amp;host=ri.aminivip2023.site&amp;security=tls&amp;fp=&amp;alpn=http%2F1.1&amp;sni=ri.aminivip2023.site#DailyV2ray
+ss://695b6a42-e044-406e-9f55-9778548fdc15@ip.aminivip2023.site:8443/?type=ws&amp;path=%2FV2zed&amp;host=ri.aminivip2023.site&amp;security=tls&amp;fp=&amp;alpn=http%2F1.1&amp;sni=ri.aminivip2023.site#DailyV2ray
 ss://YWVzLTI1Ni1nY206ZGU2ZDM1ZmMtYmU4Zi00ODY4LThhOGQtZGExYWYyNmY0YTEzQDE0LjExNi4xNTkuNzA6NDQ0MTE=
 ss://f69d4594-2d18-4266-abc4-eeb9c5604ca5@172.67.216.168:443?encryption=none&amp;security=tls&amp;type=ws&amp;sni=www.12reddddddd.bf&amp;host=www.12reddddddd.bf&amp;path=%2f975e3406-9ac4-45fc-a12b-30fbe810c75f#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD2
 ss://f69d4594-2d18-4266-abc4-eeb9c5604ca5@172.67.220.64:443?encryption=none&amp;security=tls&amp;type=ws&amp;sni=www.12reddddddd.bf&amp;host=www.12reddddddd.bf&amp;path=%2f975e3406-9ac4-45fc-a12b-30fbe810c75f#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD3
