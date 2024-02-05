@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Mon-05-Feb-2024 21:47
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Mon-05-Feb-2024 22:44
 tuic://81d527fd-5bbf-40fc-b2b0-be1956133aa6:81d527fd-5bbf-40fc-b2b0-be1956133aa6@107.173.15.52:14758/?congestion_control=bbr&amp;udp_relay_mode=native&amp;sni=www.bing.com&amp;alpn=h3&amp;allow_insecure=1#%E2%98%A2%EF%B8%8F1%40oneclickvpnkeys
 tuic://b46cb204-5849-4b86-852d-8154fb8eb580:b46cb204-5849-4b86-852d-8154fb8eb580@142.171.174.206:61213/?congestion_control=bbr&amp;udp_relay_mode=native&amp;sni=www.bing.com&amp;alpn=h3&amp;allow_insecure=1#%E2%98%A2%EF%B8%8F2%40oneclickvpnkeys
 tuic://768dba4b-40e9-43dd-8135-9dec2425cd53:7f36c26f9e5e21ae@tuic3.cpionline.us:443/?congestion_control=bbr&amp;udp_relay_mode=native&amp;sni=www.apple.com&amp;allow_insecure=1#%F0%9F%9F%A34%40oneclickvpnkeys
