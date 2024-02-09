@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Fri-09-Feb-2024 10:44
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Fri-09-Feb-2024 11:46
 trojan://b41dff00-bd43-11ee-a079-1239d0255272@iranserver.com:443?path=%2Fhowdy&amp;security=tls&amp;host=fr1.test3.net&amp;type=ws&amp;sni=fr1.test3.net#%40hopev2ray%F0%9F%92%9C
 trojan://7f5e4600-bd43-11ee-81eb-1239d0255272@188.114.96.75:443?path=%2Fhowdy&amp;security=tls&amp;host=de2.test3.net&amp;type=ws&amp;sni=de2.test3.net#%F0%9F%94%B4+%40hopev2ray
 trojan://telegram-id-privatevpns@52.56.87.9:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.miwan.co.uk#(S107)
@@ -17,7 +17,6 @@ trojan://telegram-id-privatevpns@52.214.37.23:22222?security=tls&amp;alpn=http/1
 trojan://telegram-id-privatevpns@54.170.100.184:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.miwan.co.uk#(S120)
 trojan://telegram-id-privatevpns@51.21.46.182:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.miwan.co.uk#(S101)
 trojan://telegram-id-privatevpns@51.21.98.34:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.miwan.co.uk#(S102)
-trojan://telegram-id-directvpn@13.36.192.236:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.miwan.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@18.135.246.6:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.miwan.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@52.56.93.140:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.miwan.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@54.195.34.186:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.miwan.co.uk#Our Channel : @DirectVPN
@@ -33,6 +32,7 @@ trojan://telegram-id-directvpn@18.198.7.143:22222?security=tls&amp;alpn=http/1.1
 trojan://telegram-id-directvpn@52.29.244.201:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.miwan.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@51.21.88.89:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.miwan.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@13.50.206.26:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.miwan.co.uk#Our Channel : @DirectVPN
+trojan://telegram-id-directvpn@15.236.112.227:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.miwan.co.uk#Our Channel : @DirectVPN
 trojan://UZ5ZjBAUGh@fast.jahansystem.sbs:2083/?host=speed.cloudflare.com&amp;type=tcp&amp;headerType=http#%F0%9F%94%BD1%40oneclickvpnkeys
 trojan://VF1Al6V2fk@15.235.203.122:80/?type=grpc&amp;serviceName=%40ipV2Ray&amp;security=tls#%F0%9F%A7%B819%40oneclickvpnkeys
 trojan://qj1Dz1CJmFQRhWr1SP80aA@172.67.204.84:443/?type=grpc&amp;serviceName=443trojan&amp;security=tls&amp;sni=cdn-21.gsmxreality.com#%F0%9F%A7%B820%40oneclickvpnkeys
@@ -113,8 +113,6 @@ trojan://qIt62I9ngq@store-free.liqshop78.cfd:2002?mode=gun&amp;security=tls&amp;
 trojan://Ab2QrVOzmU@liq-store-tunnel.khan-milanvictory1278.site:2002?mode=gun&amp;security=tls&amp;alpn=h2,http/1.1&amp;type=grpc&amp;serviceName=&amp;sni=kh.darig.varzesh7-liqgroup.site#LIQ%F0%9F%87%A9%F0%9F%87%AA-FREE98-%40liq_vpn
 trojan://s0ugqZIzZL@c1.shoplandtr.xyz:443?path=%2Ffoxrayiranchannel&amp;security=tls&amp;alpn=h2,http/1.1&amp;fp=chrome&amp;type=ws&amp;sni=c1.shoplandtr.xyz#join+channel+%40foxrayiran+trj
 trojan://s0ugqZIzZL@c1.shoplandtr.xyz:443?path=%2Ffoxrayiranchannel&amp;security=tls&amp;alpn=h2,http/1.1&amp;fp=chrome&amp;type=ws&amp;sni=c1.shoplandtr.xyz#join+channel+%40foxrayiran+trj
-trojan://telegram-id-privatevpns@54.220.134.150:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.miwan.co.uk#DailyV2ray
-trojan://telegram-id-privatevpns@54.73.239.19:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.miwan.co.uk#DailyV2ray
 trojan://17cae44f-1b58-4407-bb31-8273b7a51ff2@vpnhat.liangyuandiancloud.com:443/?type=tcp&amp;security=tls#
 trojan://17cae44f-1b58-4407-bb31-8273b7a51ff2@vpnpool.liangyuandiancloud.com:443/?type=tcp&amp;security=tls#
 trojan://share.mjj-home.com@185.212.56.168:443/?type=tcp&amp;security=tls&amp;sni=tw.softbank.mjj-home.com#
@@ -171,4 +169,19 @@ trojan://17f4087c-d014-491e-b89c-c54391fda9cd@upload.ir:443?path=%2Fpq%2Fjp1&amp
 trojan://8e4c5289-3eee-4d1d-934a-aca912df7392@hinet.lxjc.app:443?security=tls&amp;alpn=h2,http/1.1&amp;headerType=none&amp;fp=firefox&amp;type=tcp&amp;sni=16-163-218-240.nhost.00cdn.com#%F0%9F%8E%89%40V2ray_Alpha+MCI+12
 trojan://8e4c5289-3eee-4d1d-934a-aca912df7392@hinet.lxjc.app:443?security=tls&amp;alpn=h2,http/1.1&amp;headerType=none&amp;fp=ios&amp;type=tcp&amp;sni=16-163-218-240.nhost.00cdn.com#%F0%9F%8E%89%40V2ray_Alpha+MCI+13
 trojan://17f4087c-d014-491e-b89c-c54391fda9cd@zula.ir:443?path=%2Fpq%2Fsg2&amp;security=tls&amp;alpn=h2,http/1.1&amp;host=psg4.pqjc.buzz&amp;fp=chrome&amp;type=ws&amp;sni=psg4.pqjc.buzz#%F0%9F%8E%89%40V2ray_Alpha+MCI+15
+trojan://89edf49e-e625-4902-a94b-d1acc926b96d@upload.ir:443?path=%2Fpq%2Fjp1&amp;security=tls&amp;alpn=h2,http/1.1&amp;host=p2jp1.pqjc.buzz&amp;fp=chrome&amp;type=ws&amp;sni=p2jp1.pqjc.buzz#%F0%9F%87%AF%F0%9F%87%B5+1+%40V2ray_Alpha+MCI-1
+trojan://89edf49e-e625-4902-a94b-d1acc926b96d@zula.ir:443?path=%2Fpq%2Fjp1&amp;security=tls&amp;alpn=h2,http/1.1&amp;host=2jp2.pqjc.buzz&amp;fp=safari&amp;type=ws&amp;sni=2jp2.pqjc.buzz#%F0%9F%87%AF%F0%9F%87%B5+2+%40V2ray_Alpha+MCI-2
+trojan://89edf49e-e625-4902-a94b-d1acc926b96d@upload.ir:443?path=%2Fpq%2Fjp2&amp;security=tls&amp;alpn=h2,http/1.1&amp;host=2jp3.pqjc.buzz&amp;fp=firefox&amp;type=ws&amp;sni=2jp3.pqjc.buzz#%F0%9F%87%AF%F0%9F%87%B5+3+%40V2ray_Alpha+MCI-3
+trojan://89edf49e-e625-4902-a94b-d1acc926b96d@discord.com:443?path=%2Fpq%2Fjp2&amp;security=tls&amp;alpn=h2,http/1.1&amp;host=2jp4.pqjc.buzz&amp;fp=chrome&amp;type=ws&amp;sni=2jp4.pqjc.buzz#%F0%9F%87%AF%F0%9F%87%B5+4+%40V2ray_Alpha+MCI-4
+trojan://17f4087c-d014-491e-b89c-c54391fda9cd@spaescalesante.com:443?path=%2Fpq%2Fjp1&amp;security=tls&amp;alpn=h2,http/1.1&amp;host=2jp2.pqjc.buzz&amp;fp=firefox&amp;type=ws&amp;sni=2jp2.pqjc.buzz#%F0%9F%87%AF%F0%9F%87%B5+5+%40V2ray_Alpha+MCI-5
+trojan://89edf49e-e625-4902-a94b-d1acc926b96d@zula.ir:443?path=%2Fpq%2Fsg1&amp;security=tls&amp;alpn=h2,http/1.1&amp;host=psg1.pqjc.buzz&amp;fp=chrome&amp;type=ws&amp;sni=psg1.pqjc.buzz#%F0%9F%87%B8%F0%9F%87%AC+1+%40V2ray_Alpha+MCI-6
+trojan://89edf49e-e625-4902-a94b-d1acc926b96d@upload.ir:443?path=%2Fpq%2Fsg1&amp;security=tls&amp;alpn=h2,http/1.1&amp;host=psg2.pqjc.buzz&amp;fp=firefox&amp;type=ws&amp;sni=psg2.pqjc.buzz#%F0%9F%87%B8%F0%9F%87%AC+2+%40V2ray_Alpha+MCI-7
+trojan://89edf49e-e625-4902-a94b-d1acc926b96d@discord.com:443?path=%2Fpq%2Fsg2&amp;security=tls&amp;alpn=h2,http/1.1&amp;host=psg3.pqjc.buzz&amp;fp=firefox&amp;type=ws&amp;sni=psg3.pqjc.buzz#%F0%9F%87%B8%F0%9F%87%AC+3+%40V2ray_Alpha+MCI-8
+trojan://17f4087c-d014-491e-b89c-c54391fda9cd@discord.com:443?path=%2Fpq%2Fsg2&amp;security=tls&amp;alpn=h2,http/1.1&amp;host=psg4.pqjc.buzz&amp;fp=chrome&amp;type=ws&amp;sni=psg4.pqjc.buzz#%F0%9F%87%B8%F0%9F%87%AC+4+%40V2ray_Alpha+MCI-9
+trojan://89edf49e-e625-4902-a94b-d1acc926b96d@spaescalesante.com:443?path=%2Fpq%2Fsg2&amp;security=tls&amp;alpn=h2,http/1.1&amp;host=psg4.pqjc.buzz&amp;fp=chrome&amp;type=ws&amp;sni=psg4.pqjc.buzz#%F0%9F%87%B8%F0%9F%87%AC+5+%40V2ray_Alpha+MCI-10
+trojan://89edf49e-e625-4902-a94b-d1acc926b96d@spaescalesante.com:443?path=%2Fpq%2Fus1&amp;security=tls&amp;alpn=h2,http/1.1&amp;host=p1us1.pqjc.buzz&amp;fp=chrome&amp;type=ws&amp;sni=p1us1.pqjc.buzz#%F0%9F%87%BA%F0%9F%87%B8+1+%40V2ray_Alpha+MCI-11
+trojan://89edf49e-e625-4902-a94b-d1acc926b96d@zula.ir:443?path=%2Fpq%2Fus2&amp;security=tls&amp;alpn=h2,http/1.1&amp;host=3us2.pqjc.buzz&amp;fp=chrome&amp;type=ws&amp;sni=3us2.pqjc.buzz#%F0%9F%87%BA%F0%9F%87%B8+2+%40V2ray_Alpha+MCI-12
+trojan://17f4087c-d014-491e-b89c-c54391fda9cd@upload.ir:443?path=%2Fpq%2Fus3&amp;security=tls&amp;alpn=h2,http/1.1&amp;host=6us3.pqjc.buzz&amp;fp=chrome&amp;type=ws&amp;sni=6us3.pqjc.buzz#%F0%9F%87%BA%F0%9F%87%B8+3+%40V2ray_Alpha+MCI-13
+trojan://89edf49e-e625-4902-a94b-d1acc926b96d@zula.ir:443?path=%2Fpq%2Fus3&amp;security=tls&amp;alpn=h2,http/1.1&amp;host=6us3.pqjc.buzz&amp;fp=firefox&amp;type=ws&amp;sni=6us3.pqjc.buzz#%F0%9F%87%BA%F0%9F%87%B8+4+%40V2ray_Alpha+MCI-14
+trojan://89edf49e-e625-4902-a94b-d1acc926b96d@discord.com:443?path=%2Fpq%2Fus4&amp;security=tls&amp;alpn=h2,http/1.1&amp;host=p6us4.pqjc.buzz&amp;fp=chrome&amp;type=ws&amp;sni=p6us4.pqjc.buzz#%F0%9F%87%BA%F0%9F%87%B8+5+%40V2ray_Alpha+MCI-15
 trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:8080?security=tls&type=tcp#%C2%A9Made%20by:%20github.com/MhdiTaheri%20%F0%9F%93%8C
