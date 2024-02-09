@@ -1,8 +1,6 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Fri-09-Feb-2024 17:43
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Fri-09-Feb-2024 18:45
 trojan://b41dff00-bd43-11ee-a079-1239d0255272@iranserver.com:443?path=%2Fhowdy&amp;security=tls&amp;host=fr1.test3.net&amp;type=ws&amp;sni=fr1.test3.net#%40hopev2ray%F0%9F%92%9C
 trojan://7f5e4600-bd43-11ee-81eb-1239d0255272@188.114.96.75:443?path=%2Fhowdy&amp;security=tls&amp;host=de2.test3.net&amp;type=ws&amp;sni=de2.test3.net#%F0%9F%94%B4+%40hopev2ray
-trojan://telegram-id-privatevpns@35.158.224.210:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.miwan.co.uk#(S114)
-trojan://telegram-id-privatevpns@35.181.226.228:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.miwan.co.uk#(S115)
 trojan://telegram-id-privatevpns@13.39.247.62:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.miwan.co.uk#(S116)
 trojan://telegram-id-privatevpns@18.134.233.29:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.miwan.co.uk#(S117)
 trojan://telegram-id-privatevpns@13.43.247.6:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.miwan.co.uk#(S118)
@@ -20,7 +18,8 @@ trojan://telegram-id-privatevpns@3.255.22.220:22222?security=tls&amp;alpn=http/1
 trojan://telegram-id-privatevpns@34.242.85.206:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.miwan.co.uk#(S110)
 trojan://telegram-id-privatevpns@13.48.107.119:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.miwan.co.uk#(S111)
 trojan://telegram-id-privatevpns@13.48.90.61:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.miwan.co.uk#(S112)
-trojan://telegram-id-directvpn@3.97.177.99:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.miwan.co.uk#Our Channel : @DirectVPN
+trojan://telegram-id-privatevpns@18.195.36.75:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.miwan.co.uk#(S113)
+trojan://telegram-id-privatevpns@18.196.133.249:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.miwan.co.uk#(S114)
 trojan://telegram-id-directvpn@35.182.174.232:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.miwan.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@3.13.75.93:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.miwan.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@3.19.160.201:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.miwan.co.uk#Our Channel : @DirectVPN
@@ -39,6 +38,7 @@ trojan://telegram-id-directvpn@99.80.168.119:22222?security=tls&amp;alpn=http/1.
 trojan://telegram-id-directvpn@52.212.135.51:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.miwan.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@3.96.21.42:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.miwan.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@15.222.156.11:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.miwan.co.uk#Our Channel : @DirectVPN
+trojan://telegram-id-directvpn@3.13.99.219:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.miwan.co.uk#Our Channel : @DirectVPN
 trojan://VF1Al6V2fk@15.235.203.122:80/?type=grpc&amp;serviceName=%40ipV2Ray&amp;security=tls#%F0%9F%A7%B819%40oneclickvpnkeys
 trojan://qj1Dz1CJmFQRhWr1SP80aA@172.67.204.84:443/?type=grpc&amp;serviceName=443trojan&amp;security=tls&amp;sni=cdn-21.gsmxreality.com#%F0%9F%A7%B820%40oneclickvpnkeys
 trojan://RtOGIC4aSC@ngo.topoppongroup.space:2096?mode=multi&amp;security=tls&amp;type=grpc&amp;serviceName=----------telegram:vpn_xw----------&amp;sni=ngo.topoppongroup.space#%40vpn_xw
