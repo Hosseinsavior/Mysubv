@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Sat-10-Feb-2024 01:45
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Sat-10-Feb-2024 02:45
 trojan://b41dff00-bd43-11ee-a079-1239d0255272@iranserver.com:443?path=%2Fhowdy&amp;security=tls&amp;host=fr1.test3.net&amp;type=ws&amp;sni=fr1.test3.net#%40hopev2ray%F0%9F%92%9C
 trojan://7f5e4600-bd43-11ee-81eb-1239d0255272@188.114.96.75:443?path=%2Fhowdy&amp;security=tls&amp;host=de2.test3.net&amp;type=ws&amp;sni=de2.test3.net#%F0%9F%94%B4+%40hopev2ray
 trojan://telegram-id-privatevpns@13.38.139.137:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.miwan.co.uk#(S105)
@@ -88,6 +88,9 @@ trojan://telegram-id-directvpn@18.171.196.102:22222?alpn=http%2F1.1&amp;headerTy
 trojan://telegram-id-directvpn@99.80.168.119:22222?alpn=http%2F1.1&amp;headerType=none&amp;security=tls&amp;sni=trojan.miwan.co.uk&amp;type=tcp#@Hope_Net-join-us-on-Telegram
 trojan://telegram-id-directvpn@52.212.135.51:22222?alpn=http%2F1.1&amp;headerType=none&amp;security=tls&amp;sni=trojan.miwan.co.uk&amp;type=tcp#@Hope_Net-join-us-on-Telegram
 trojan://telegram-id-directvpn@3.96.21.42:22222?alpn=http%2F1.1&amp;headerType=none&amp;security=tls&amp;sni=trojan.miwan.co.uk&amp;type=tcp#@Hope_Net-join-us-on-Telegram
+trojan://RtOGIC4aSC@172.67.157.8:2096?security=tls&amp;serviceName=----------telegram%3Avpn_xw----------&amp;sni=ngo.topoppongroup.space&amp;type=grpc#@Hope_Net-join-us-on-Telegram
+trojan://wkmY1R4EcP@130.0.236.44:443?security=tls&amp;sni=z-v2-002511.kailib.com&amp;type=tcp#@Hope_Net-join-us-on-Telegram
+trojan://wkmY1R4EcP@z-v2-002511.kailib.com:443?security=tls&amp;type=tcp#@Hope_Net-join-us-on-Telegram
 trojan://qG9K8AGnn9XH5jUqeFu96g@cdn13.cdn2cdn.com:2083?security=tls&amp;sni=cdn13.cdn2cdn.com&amp;fp=chrome&amp;type=ws&amp;path=/#.
 trojan://ewpwq62OW2@de.melov2ray.shop:2087?type=ws&amp;path=/@melov2ray,@melov2ray,@melov2ray,@melov2ray,@melov2ray,@melov2ray,@melov2ray,@melov2ray,@melov2ray,@melov2ray,@melov2ray,@melov2ray,@melov2ray,@melov2ray,@melov2ray,@melov2ray,@melov2ray,@melov2ray,@melov2ray,@melov2ray,@melov2ray,@melov2ray,@melov2ray,@melov2ray,@melov2ray,@melov2ray&amp;security=tls&amp;fp=chrome&amp;alpn=h2%2Chttp%2F1.1&amp;allowInsecure=1&amp;sni=De.melOV2ray.shop#@melov2ray-trojan%F0%9F%87%A9%F0%9F%87%AA
 trojan://eW0fAVT16n@us.melobigg.site:2083?type=ws&amp;path=/@melov2ray,@melov2ray,@melov2ray,@melov2ray,@melov2ray,@melov2ray,@melov2ray,@melov2ray,@melov2ray,@melov2ray,@melov2ray,@melov2ray,@melov2ray,@melov2ray,@melov2ray,@melov2ray,@melov2ray,@melov2ray,@melov2ray,@melov2ray,@melov2ray,@melov2ray,@melov2ray,@melov2ray,@melov2ray,@melov2ray&amp;security=tls&amp;fp=chrome&amp;alpn=h2%2Chttp%2F1.1&amp;allowInsecure=1&amp;sni=us.MeLoBIgg.sITe#@melov2ray-trojan%F0%9F%87%BA%F0%9F%87%B8
