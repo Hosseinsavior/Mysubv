@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Mon-12-Feb-2024 00:44
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Mon-12-Feb-2024 01:45
 hy2://d2e21fabfe6ddb83@70.34.205.24:443/?insecure=1&amp;sni=www.apple.com&amp;obfs=salamander&amp;obfs-password=ca39a177#%F0%9F%9B%A0h2%40oneclickvpnkeys
 hy2://y0qochAspE+u-HLfrip-@45.32.234.211:443/?insecure=1&amp;sni=Google.com&amp;obfs=salamander&amp;obfs-password=2pU%21%26Brls%210exuP%2B%214so#%F0%9F%87%B3%F0%9F%87%B11%40oneclickvpnkeys
 hy2://4a52c165e81fa8fc@hys3.cpionline.us:443/?insecure=1&amp;sni=www.apple.com&amp;obfs=salamander&amp;obfs-password=a16d0be0#%F0%9F%87%B8%F0%9F%87%AA1%40oneclickvpnkeys
@@ -9,8 +9,6 @@ hy2://sharecentrepro@us.scproxy.top:4433/#%F0%9F%8C%8Dus%40oneclickvpnkeys
 hy2://e15a928d-cd74-4a8c-9305-19db97c2f3fd@hkt.wumaojichang.com:8086/#%F0%9F%87%AD%F0%9F%87%B0%40oneclickvpnkeys
 hy2://e15a928d-cd74-4a8c-9305-19db97c2f3fd@hinet.wumaojichang.com:8086/#%F0%9F%87%B9%F0%9F%87%BC%40oneclickvpnkeys
 hy2://d2e21fabfe6ddb83@70.34.205.24:443/?insecure=1&amp;sni=www.apple.com&amp;obfs=salamander&amp;obfs-password=ca39a177#%F0%9F%9B%A0h2%40oneclickvpnkeys
-hy2://8f253821-ebfc-4845-9a74-dbd568861f35@46.29.166.99:6548/@ELiV2RAY-@ELiV2RAY-@ELiV2RAY-@ELiV2RAY?insecure=1&amp;sni=yhhy.441166.xyz#
-hy2://y0qochAspE+u-HLfrip-@45.32.234.211:443/@ELiV2RAY-@ELiV2RAY-@ELiV2RAY-@ELiV2RAY?insecure=1&amp;sni=ELIV2RAY.eliv2.top&amp;obfs=salamander&amp;obfs-password=2pU%21%26Brls%210exuP%2B%214so#
 hy2://2f1b122607f533dc@[2607:5300:205:200::1926]:443/?insecure=1&amp;sni=ELiV2RAY.eliv2.top&amp;obfs=salamander&amp;obfs-password=7925a5b3071cb35f#%F0%9F%87%A8%F0%9F%87%A6%40ELiV2RAY
 hy2://f6e4b19a3110d19d@66.135.28.59:443/?insecure=1&amp;sni=www.apple.com%0A&amp;obfs=salamander&amp;obfs-password=8c3ce17b#%E2%9A%A1%EF%B8%8F%20%40ConfigV2RayNG
 hy2://y0qochAspE+u-HLfrip-@45.32.234.211:443/?insecure=1&amp;sni=Google.com&amp;obfs=salamander&amp;obfs-password=2pU%21%26Brls%210exuP%2B%214so#%E2%9A%A1%EF%B8%8F%20%40ConfigV2RayNG%20
