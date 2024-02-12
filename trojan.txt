@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Mon-12-Feb-2024 06:46
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Mon-12-Feb-2024 07:47
 trojan://b41dff00-bd43-11ee-a079-1239d0255272@iranserver.com:443?path=%2Fhowdy&amp;security=tls&amp;host=fr1.test3.net&amp;type=ws&amp;sni=fr1.test3.net#%40hopev2ray%F0%9F%92%9C
 trojan://7f5e4600-bd43-11ee-81eb-1239d0255272@188.114.96.75:443?path=%2Fhowdy&amp;security=tls&amp;host=de2.test3.net&amp;type=ws&amp;sni=de2.test3.net#%F0%9F%94%B4+%40hopev2ray
 trojan://telegram-id-privatevpns@13.39.236.92:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.miwan.co.uk#(S105)
@@ -129,6 +129,8 @@ trojan://01a7ed92-3ff7-4872-84a8-fcb4757783c7@nslookup.io:443?security=tls&amp;s
 trojan://a6292090-afe1-4640-97a7-4f1d1d877cf1@95.179.128.114:443?encryption=none&amp;security=tls&amp;sni=hdfy8d1.cpi1.eu.org&amp;fp=chrome&amp;type=grpc&amp;serviceName=8bHUAD5IX0lC5KffvrsN6rqb&amp;headerType=none#%E2%9A%A1%EF%B8%8F@DeamNet+%F0%9F%87%B3%F0%9F%87%B1The+Netherlands
 trojan://s0ugqZIzZL@c1.shoplandtr.xyz:443?path=%2Ffoxrayiranchannel&amp;security=tls&amp;alpn=h2,http/1.1&amp;fp=chrome&amp;type=ws&amp;sni=c1.shoplandtr.xyz#join+channel+%40foxrayiran+trj
 trojan://s0ugqZIzZL@c1.shoplandtr.xyz:443?path=%2Ffoxrayiranchannel&amp;security=tls&amp;alpn=h2,http/1.1&amp;fp=chrome&amp;type=ws&amp;sni=c1.shoplandtr.xyz#join+channel+%40foxrayiran+trj
+trojan://telegram-id-directvpn@13.39.205.123:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.miwan.co.uk#DailyV2ray
+trojan://telegram-id-privatevpns@18.132.148.8:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.miwan.co.uk#DailyV2ray
 trojan://caonima2022@ml.xxass.ml:443?sni=ml.xxass.ml#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD
 trojan://caonima2022@ml.xxass.ml:443?sni=ml.xxass.ml#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD
 trojan://94bd9ec3-ce6a-3557-9398-e811ec2892ec@182.151.11.238:19206#%F0%9F%87%A8%F0%9F%87%B3_CN_%E4%B8%AD%E5%9B%BD-%3E%F0%9F%87%AD%F0%9F%87%B0_HK_%E9%A6%99%E6%B8%AF
@@ -161,20 +163,6 @@ trojan://telegram-id-privatevpns@18.193.113.18:22222?security=tls&amp;alpn=http/
 trojan://telegram-id-privatevpns@13.48.5.87:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trj.rollingnext.co.uk#(S856)
 trojan://telegram-id-privatevpns@3.68.167.147:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trj.rollingnext.co.uk#(S259)
 trojan://telegram-id-privatevpns@3.70.219.173:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trj.rollingnext.co.uk#(S460)
-trojan://v2ray_best_iran@zula.ir:443?mode=gun&amp;security=tls&amp;alpn=h2,http/1.1&amp;fp=chrome&amp;type=grpc&amp;serviceName=v2ray_best_iran&amp;sni=bestshop.melony.pics#%5B%40ConfigV2RayNG%5D
-trojan://telegram-id-privatevpns@18.158.15.247:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.miwan.co.uk#%F0%9F%87%A9%F0%9F%87%AAConfigV2RayNG
-trojan://telegram-id-privatevpns@52.49.228.127:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.miwan.co.uk#%F0%9F%87%A8%F0%9F%87%AEConfigV2RayNG
-trojan://telegram-id-directvpn@18.134.50.230:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.miwan.co.uk#ConfigV2RayNG
-trojan://telegram-id-privatevpns@3.74.70.245:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.miwan.co.uk#%F0%9F%87%A9%F0%9F%87%AAConfigV2RayNG
-trojan://telegram-id-directvpn@52.48.247.154:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.miwan.co.uk#ConfigV2RayNG
-trojan://telegram-id-directvpn@13.39.205.123:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.miwan.co.uk#ConfigV2RayNG
-trojan://telegram-id-directvpn@3.143.154.67:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.miwan.co.uk#ConfigV2RayNG
-trojan://telegram-id-privatevpns@13.39.126.161:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.miwan.co.uk#%F0%9F%87%A8%F0%9F%87%B5ConfigV2RayNG
-trojan://telegram-id-directvpn@15.157.153.1:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.miwan.co.uk#ConfigV2RayNG
-trojan://telegram-id-directvpn@52.50.199.116:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.miwan.co.uk#ConfigV2RayNG
-trojan://telegram-id-privatevpns@3.126.80.175:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.miwan.co.uk#%F0%9F%87%A9%F0%9F%87%AAConfigV2RayNG
-trojan://telegram-id-privatevpns@51.20.239.209:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.miwan.co.uk#%F0%9F%87%B8%F0%9F%87%AAt.me%2FConfigV2RayNG
-trojan://telegram-id-directvpn@3.98.190.49:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.miwan.co.uk#ConfigV2RayNG
 trojan://ff478153-9df6-4a86-bb72-7bfc28532e45@165.22.30.47:443?security=tls&amp;headerType=none&amp;type=tcp&amp;sni=soft98.ir#%5B%F0%9F%87%AE%F0%9F%87%B7%5D+telegram+%40V2ray_Custom
 trojan://YS7mIZvKNt@172.67.175.243:2053?mode=gun&amp;security=tls&amp;alpn=h2,http/1.1&amp;fp=chrome&amp;type=grpc&amp;serviceName=server-53651.prod.hosts.ooklaserver.net&amp;sni=panell.followprovider.ir#%F0%9F%8E%89%40V2ray_Alpha+MCI+2
 trojan://17f4087c-d014-491e-b89c-c54391fda9cd@discord.com:443?path=%2Fpq%2Fus3&amp;security=tls&amp;alpn=h2,http/1.1&amp;host=6us3.pqjc.buzz&amp;fp=safari&amp;type=ws&amp;sni=6us3.pqjc.buzz#%F0%9F%8E%89%40V2ray_Alpha+MCI+8
