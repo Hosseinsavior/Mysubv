@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Tue-13-Feb-2024 23:46
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Wed-14-Feb-2024 00:46
 hy2://daf3d4ec-992c-4446-b44c-f823ef91e774@198.46.189.84:8000/?insecure=1&amp;sni=www.bing.com#%F0%9F%8E%B2h2%40oneclickvpnkeys
 hy2://y0qochAspE+u-HLfrip-@45.32.234.211:443/?insecure=1&amp;sni=Google.com&amp;obfs=salamander&amp;obfs-password=2pU%21%26Brls%210exuP%2B%214so#%F0%9F%87%B3%F0%9F%87%B11%40oneclickvpnkeys
 hy2://4a52c165e81fa8fc@hys3.cpionline.us:443/?insecure=1&amp;sni=www.apple.com&amp;obfs=salamander&amp;obfs-password=a16d0be0#%F0%9F%87%B8%F0%9F%87%AA1%40oneclickvpnkeys
