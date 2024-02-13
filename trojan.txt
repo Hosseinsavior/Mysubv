@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Tue-13-Feb-2024 06:46
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Tue-13-Feb-2024 07:48
 trojan://b41dff00-bd43-11ee-a079-1239d0255272@iranserver.com:443?path=%2Fhowdy&amp;security=tls&amp;host=fr1.test3.net&amp;type=ws&amp;sni=fr1.test3.net#%40hopev2ray%F0%9F%92%9C
 trojan://7f5e4600-bd43-11ee-81eb-1239d0255272@188.114.96.75:443?path=%2Fhowdy&amp;security=tls&amp;host=de2.test3.net&amp;type=ws&amp;sni=de2.test3.net#%F0%9F%94%B4+%40hopev2ray
 trojan://telegram-id-privatevpns@13.37.134.154:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.miwan.co.uk#(S105)
@@ -62,11 +62,6 @@ trojan://dQDQCtns4R@162.159.138.232:443?security=tls&amp;sni=fadaei.movieland.to
 trojan://qG9K8AGnn9XH5jUqeFu96g@cdn-13.cdn2cdn.com:2083?path=%2F&amp;security=tls&amp;host=cdn13.cdn2cdn.com&amp;type=ws&amp;sni=cdn13.cdn2cdn.com#%40Vpn_Tehran+%E2%9C%85%EF%B8%8F+%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85+%D9%85%D8%A7+%D8%B1%D9%88+%D8%A8%D8%A8%DB%8C%D9%86
 trojan://qG9K8AGnn9XH5jUqeFu96g@104.16.126.175:2083?path=%2F&amp;security=tls&amp;host=cdn13.cdn2cdn.com&amp;type=ws&amp;sni=cdn13.cdn2cdn.com#%40Vpn_Tehran+%E2%9C%85%EF%B8%8F+%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85+%D9%85%D8%A7+%D8%B1%D9%88+%D8%A8%D8%A8%DB%8C%D9%86
 trojan://qG9K8AGnn9XH5jUqeFu96g@104.16.124.175:2083?path=%2F&amp;security=tls&amp;host=cdn13.cdn2cdn.com&amp;type=ws&amp;sni=cdn13.cdn2cdn.com#%40Vpn_Tehran+%E2%9C%85%EF%B8%8F+%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85+%D9%85%D8%A7+%D8%B1%D9%88+%D8%A8%D8%A8%DB%8C%D9%86
-trojan://hwiyBDgN65hGmiwxPcfMUA@b2n.ir:443?alpn=&amp;fp=chrome&amp;headerType=&amp;host=cdnttr212.reservedns.com&amp;path=%2F&amp;security=tls&amp;sni=cdnttr212.reservedns.com&amp;type=ws#[
-trojan://hwiyBDgN65hGmiwxPcfMUA@b2n.ir:443?alpn=&amp;fp=chrome&amp;headerType=&amp;host=cdntfr158.reservedns.com&amp;path=%2F&amp;security=tls&amp;sni=cdntfr158.reservedns.com&amp;type=ws#[
-trojan://hwiyBDgN65hGmiwxPcfMUA@b2n.ir:443?alpn=&amp;fp=chrome&amp;headerType=&amp;host=cdntuk17.reservedns.com&amp;path=%2F&amp;security=tls&amp;sni=cdntuk17.reservedns.com&amp;type=ws#[
-trojan://a6711b97-5e8e-4e7d-8b42-845dd31c265b@ru-full.privateip.net:443#[
-trojan://7397ca10-3fa4-459c-9f58-330800df292b@162.159.1.94:443?alpn=h2&amp;fp=safari&amp;mode=gun&amp;security=tls&amp;serviceName=kg1gATzuCPEFTHvPRBHib3OF&amp;sni=LMhaB78l0tTw.lowerpingservise.ir&amp;type=grpc#[
 trojan://c1dc3493-2298-44ab-98c1-4abccbc350d1@xibaozi.19890604.day:10847?sni=cloudflare.node-ssl.cdn-alibaba.com#%F0%9F%87%A8%F0%9F%87%B3_CN_%E4%B8%AD%E5%9B%BD_1
 trojan://c1dc3493-2298-44ab-98c1-4abccbc350d1@xibaozi.19890604.day:10848?sni=cloudflare.node-ssl.cdn-alibaba.com#%F0%9F%87%A8%F0%9F%87%B3_CN_%E4%B8%AD%E5%9B%BD_2
 trojan://c1dc3493-2298-44ab-98c1-4abccbc350d1@xibaozi.19890604.day:10839?sni=cloudflare.node-ssl.cdn-alibaba.com#%F0%9F%87%A8%F0%9F%87%B3_CN_%E4%B8%AD%E5%9B%BD_3
@@ -134,9 +129,6 @@ trojan://01a7ed92-3ff7-4872-84a8-fcb4757783c7@clean3.cpionline.cc:443?security=t
 trojan://01a7ed92-3ff7-4872-84a8-fcb4757783c7@nslookup.io:443?security=tls&amp;sni=rsfrndc.foriran.nl&amp;alpn=http%2F1.1&amp;fp=chrome&amp;type=ws&amp;host=rsfrndc.foriran.nl&amp;path=%2F3D8U0cLhe2MGwH9c1eh1994#IranCPI_CDN4
 trojan://6NOV1UzBCLgRwRrKEJB-3A@172.67.183.94:8080?path=%2Fstop&amp;security=none&amp;host=zilat-ai.conftion.net&amp;type=ws#Hi+ZILAT_VPN+%F0%9F%A5%B0-%7Cday+%3A+%E2%88%9E%7C-%7Cdata+%3A+5.0+GB%7C
 trojan://2TE9aBJdIiryI6DVSdB-EA@172.67.183.94:8080?path=%2Fstop&amp;security=none&amp;host=zilat-ai.conftion.net&amp;type=ws#Hi+ZILAT_VPN+%F0%9F%A5%B0-%7Cday+%3A+%E2%88%9E%7C-%7Cdata+%3A+5.0+GB%7C
-trojan://a6711b97-5e8e-4e7d-8b42-845dd31c265b@ru-full.privateip.net:443#[
-trojan://7397ca10-3fa4-459c-9f58-330800df292b@162.159.1.94:443?alpn=h2&amp;fp=safari&amp;mode=gun&amp;security=tls&amp;serviceName=kg1gATzuCPEFTHvPRBHib3OF&amp;sni=LMhaB78l0tTw.lowerpingservise.ir&amp;type=grpc#[
-trojan://7397ca10-3fa4-459c-9f58-330800df292b@162.159.1.94:443?alpn=h2&amp;fp=safari&amp;mode=gun&amp;security=tls&amp;serviceName=kg1gATzuCPEFTHvPRBHib3OF&amp;sni=LMhaB78l0tTw.lowerpingservise.ir&amp;type=grpc#[
 trojan://s0ugqZIzZL@c1.shoplandtr.xyz:443?path=%2Ffoxrayiranchannel&amp;security=tls&amp;alpn=h2,http/1.1&amp;fp=chrome&amp;type=ws&amp;sni=c1.shoplandtr.xyz#join+channel+%40foxrayiran+trj
 trojan://s0ugqZIzZL@c1.shoplandtr.xyz:443?path=%2Ffoxrayiranchannel&amp;security=tls&amp;alpn=h2,http/1.1&amp;fp=chrome&amp;type=ws&amp;sni=c1.shoplandtr.xyz#join+channel+%40foxrayiran+trj
 trojan://telegram-id-directvpn@13.39.205.123:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.miwan.co.uk#DailyV2ray
