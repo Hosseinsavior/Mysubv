@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Tue-13-Feb-2024 07:48
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Tue-13-Feb-2024 08:45
 hy2://y0qochAspE+u-HLfrip-@45.32.234.211:443/?insecure=1&amp;sni=Google.com&amp;obfs=salamander&amp;obfs-password=2pU%21%26Brls%210exuP%2B%214so#%F0%9F%87%B3%F0%9F%87%B11%40oneclickvpnkeys
 hy2://dongtaiwang.com@64.110.25.11:33337/?insecure=1&amp;sni=www.bing.com#%E2%99%BE%EF%B8%8F7%40oneclickvpnkeys
 hy2://dongtaiwang.com@51.158.54.46:44550/?insecure=1&amp;sni=bing.com#%E2%99%BE%EF%B8%8F1%40oneclickvpnkeys
@@ -10,7 +10,4 @@ hy2://daf3d4ec-992c-4446-b44c-f823ef91e774@198.46.189.84:8000/?insecure=1&amp;sn
 hy2://2f1b122607f533dc@[2607:5300:205:200::1926]:443/?insecure=1&amp;sni=ELiV2RAY.eliv2.top&amp;obfs=salamander&amp;obfs-password=7925a5b3071cb35f#%F0%9F%87%A8%F0%9F%87%A6%40ELiV2RAY
 hy2://d2e21fabfe6ddb83@[2a05:f480:2000:23c3:5400:4ff:feba:2d65]:443/@ELiV2RAY-@ELiV2RAY-@ELiV2RAY-@ELiV2RAY?insecure=1&amp;sni=www.apple.com&amp;obfs=salamander&amp;obfs-password=ca39a177#
 hy2://y0qochAspE+u-HLfrip-@45.32.234.211:443/?insecure=1&amp;sni=ELiV2RAY.eliv2.top&amp;obfs=salamander&amp;obfs-password=2pU%21%26Brls%210exuP%2B%214so#
-hy2://f6e4b19a3110d19d@66.135.28.59:443/?insecure=1&amp;sni=www.apple.com%0A&amp;obfs=salamander&amp;obfs-password=8c3ce17b#%E2%9A%A1%EF%B8%8F%20%40ConfigV2RayNG
-hy2://y0qochAspE+u-HLfrip-@45.32.234.211:443/?insecure=1&amp;sni=Google.com&amp;obfs=salamander&amp;obfs-password=2pU%21%26Brls%210exuP%2B%214so#%E2%9A%A1%EF%B8%8F%20%40ConfigV2RayNG%20
-hy2://9f73c619627d6a5d@66.245.192.15:443/?insecure=1&amp;sni=www.apple.com&amp;obfs=salamander&amp;obfs-password=bd7f765e#%E2%9A%A1%EF%B8%8F%20%40ConfigV2RayNG
 trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:8080?security=tls&type=tcp#%C2%A9Made%20by:%20github.com/MhdiTaheri%20%F0%9F%93%8C
