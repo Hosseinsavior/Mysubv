@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Wed-14-Feb-2024 07:47
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Wed-14-Feb-2024 08:44
 trojan://b41dff00-bd43-11ee-a079-1239d0255272@iranserver.com:443?path=%2Fhowdy&amp;security=tls&amp;host=fr1.test3.net&amp;type=ws&amp;sni=fr1.test3.net#%40hopev2ray%F0%9F%92%9C
 trojan://7f5e4600-bd43-11ee-81eb-1239d0255272@188.114.96.75:443?path=%2Fhowdy&amp;security=tls&amp;host=de2.test3.net&amp;type=ws&amp;sni=de2.test3.net#%F0%9F%94%B4+%40hopev2ray
 trojan://telegram-id-privatevpns@13.37.205.247:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.miwan.co.uk#(S105)
@@ -104,6 +104,12 @@ trojan://01a7ed92-3ff7-4872-84a8-fcb4757783c7@clean3.cpionline.cc:443?security=t
 trojan://01a7ed92-3ff7-4872-84a8-fcb4757783c7@nslookup.io:443?security=tls&amp;sni=rsfrndc.foriran.nl&amp;alpn=http%2F1.1&amp;fp=chrome&amp;type=ws&amp;host=rsfrndc.foriran.nl&amp;path=%2F3D8U0cLhe2MGwH9c1eh1994#IranCPI_CDN4
 trojan://6NOV1UzBCLgRwRrKEJB-3A@172.67.183.94:8080?path=%2Fstop&amp;security=none&amp;host=zilat-ai.conftion.net&amp;type=ws#Hi+ZILAT_VPN+%F0%9F%A5%B0-%7Cday+%3A+%E2%88%9E%7C-%7Cdata+%3A+5.0+GB%7C
 trojan://2TE9aBJdIiryI6DVSdB-EA@172.67.183.94:8080?path=%2Fstop&amp;security=none&amp;host=zilat-ai.conftion.net&amp;type=ws#Hi+ZILAT_VPN+%F0%9F%A5%B0-%7Cday+%3A+%E2%88%9E%7C-%7Cdata+%3A+5.0+GB%7C
+trojan://d2698cf9-c47e-455c-8384-12e642cbba15@89.116.180.179:443?type=ws&amp;sni=p6us4.pqjc.buzz&amp;allowInsecure=1&amp;path=/pq/us4#%F0%9F%87%BA%F0%9F%87%B8_%E5%AE%9A%E5%88%B6%E4%B8%93%E7%BA%BF%EF%BC%9A%40DX00006
+trojan://e8105dfd24414268b6c7652c63731097@198.41.220.20:443?type=ws&amp;sni=avianrecruit.com&amp;allowInsecure=1&amp;path=6b777a91&amp;host=avianrecruit.com#%F0%9F%87%BA%F0%9F%87%B8_%E5%AE%9A%E5%88%B6%E4%B8%93%E7%BA%BF%EF%BC%9A%40DX00006
+trojan://f0eb8c92ce8946aaba856569cff1a16b@104.19.171.3:443?type=ws&amp;sni=sherasheba.com&amp;allowInsecure=1&amp;path=6b777a91&amp;host=sherasheba.com#%F0%9F%87%BA%F0%9F%87%B8_%E5%AE%9A%E5%88%B6%E4%B8%93%E7%BA%BF%EF%BC%9A%40DX00006
+trojan://d2698cf9-c47e-455c-8384-12e642cbba15@89.116.180.179:443?type=ws&amp;sni=p6us4.pqjc.buzz&amp;allowInsecure=1&amp;path=/pq/us4#%F0%9F%87%BA%F0%9F%87%B8_%E5%AE%9A%E5%88%B6%E4%B8%93%E7%BA%BF%EF%BC%9A%40DX00006
+trojan://e8105dfd24414268b6c7652c63731097@198.41.220.20:443?type=ws&amp;sni=avianrecruit.com&amp;allowInsecure=1&amp;path=6b777a91&amp;host=avianrecruit.com#%F0%9F%87%BA%F0%9F%87%B8_%E5%AE%9A%E5%88%B6%E4%B8%93%E7%BA%BF%EF%BC%9A%40DX00006
+trojan://f0eb8c92ce8946aaba856569cff1a16b@104.19.171.3:443?type=ws&amp;sni=sherasheba.com&amp;allowInsecure=1&amp;path=6b777a91&amp;host=sherasheba.com#%F0%9F%87%BA%F0%9F%87%B8_%E5%AE%9A%E5%88%B6%E4%B8%93%E7%BA%BF%EF%BC%9A%40DX00006
 trojan://s0ugqZIzZL@c1.shoplandtr.xyz:443?path=%2Ffoxrayiranchannel&amp;security=tls&amp;alpn=h2,http/1.1&amp;fp=chrome&amp;type=ws&amp;sni=c1.shoplandtr.xyz#join+channel+%40foxrayiran+trj
 trojan://s0ugqZIzZL@c1.shoplandtr.xyz:443?path=%2Ffoxrayiranchannel&amp;security=tls&amp;alpn=h2,http/1.1&amp;fp=chrome&amp;type=ws&amp;sni=c1.shoplandtr.xyz#join+channel+%40foxrayiran+trj
 trojan://telegram-id-directvpn@13.39.205.123:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.miwan.co.uk#DailyV2ray
