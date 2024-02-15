@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Fri-16-Feb-2024 01:43
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Fri-16-Feb-2024 02:44
 trojan://b41dff00-bd43-11ee-a079-1239d0255272@iranserver.com:443?path=%2Fhowdy&amp;security=tls&amp;host=fr1.test3.net&amp;type=ws&amp;sni=fr1.test3.net#%40hopev2ray%F0%9F%92%9C
 trojan://7f5e4600-bd43-11ee-81eb-1239d0255272@188.114.96.75:443?path=%2Fhowdy&amp;security=tls&amp;host=de2.test3.net&amp;type=ws&amp;sni=de2.test3.net#%F0%9F%94%B4+%40hopev2ray
 trojan://telegram-id-privatevpns@15.188.170.29:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.miwan.co.uk#(S105)
@@ -35,7 +35,6 @@ trojan://telegram-id-directvpn@3.69.111.29:22222?security=tls&amp;alpn=http/1.1&
 trojan://7397ca10-3fa4-459c-9f58-330800df292b@162.159.1.94:443/?type=ws&amp;host=6exEa2RpxrVmgn.lowerpingservise.ir&amp;path=%2Fkg1gATzuCPEFTouGlCp&amp;security=tls&amp;sni=6exEa2RpxrVmgn.lowerpingservise.ir#%F0%9F%92%9F9%40oneclickvpnkeys
 trojan://Telegram-V2ray_Alpha@www.wedbaz.fun:443?mode=gun&amp;security=tls&amp;alpn=h2,http/1.1&amp;fp=chrome&amp;type=grpc&amp;serviceName=Telegram: @V2ray_Alpha&amp;sni=usa-ss1.alpha2.top#%40FalconPolV2rayNG%40FalconPolV2rayNG%40FalconPolV2rayNG%40FalconPolV2rayNG%40FalconPolV2rayNG%40FalconPolV2rayNG%40FalconPolV2rayNG%40FalconPolV2rayNG%40FalconPolV2rayNG%40FalconPolV2rayNG%40FalconPolV2rayNG%40FalconPolV2rayNG
 trojan://telegram-id-directvpn@3.76.108.116:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.miwan.co.uk#%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%D8%B3%D9%84
-trojan://7d2a299f-191b-4d12-8add-2303476822d9@[2a01:d0:accb:0:1:0:e2ea:c2b9]:8882?security=tls&amp;headerType=none&amp;type=tcp#Channel%20id%3A%20%40ShadowProxy66%20
 trojan://EeECHjPg9O@www.speedtest.net:80?security=none&amp;type=ws&amp;host=ya-competitive-demo-extensions.trycloudflare.com&amp;path=%2Fapplication-services#Kiava-S5-T7
 trojan://i3hxGXiZPE@www.speedtest.net:80?security=none&amp;type=ws&amp;host=purple-tampa-tunisia-invalid.trycloudflare.com&amp;path=%2Fconnectivity-cloud#Kiava-S6-T7
 trojan://o233Smkn1m@16.171.12.59:80?security=none&amp;type=grpc&amp;serviceName=kiava&amp;mode=multi#Kiava-T15-S7
