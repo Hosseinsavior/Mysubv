@@ -1,7 +1,6 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Fri-16-Feb-2024 16:45
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Fri-16-Feb-2024 17:43
 trojan://b41dff00-bd43-11ee-a079-1239d0255272@iranserver.com:443?path=%2Fhowdy&amp;security=tls&amp;host=fr1.test3.net&amp;type=ws&amp;sni=fr1.test3.net#%40hopev2ray%F0%9F%92%9C
 trojan://7f5e4600-bd43-11ee-81eb-1239d0255272@188.114.96.75:443?path=%2Fhowdy&amp;security=tls&amp;host=de2.test3.net&amp;type=ws&amp;sni=de2.test3.net#%F0%9F%94%B4+%40hopev2ray
-trojan://telegram-id-privatevpns@52.28.131.139:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.miwan.co.uk#(S113)
 trojan://telegram-id-privatevpns@3.65.145.105:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.miwan.co.uk#(S114)
 trojan://telegram-id-privatevpns@35.181.197.133:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.miwan.co.uk#(S115)
 trojan://telegram-id-privatevpns@13.37.114.10:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.miwan.co.uk#(S116)
@@ -20,7 +19,7 @@ trojan://telegram-id-privatevpns@18.170.239.237:22222?security=tls&amp;alpn=http
 trojan://telegram-id-privatevpns@108.128.197.210:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.miwan.co.uk#(S109)
 trojan://telegram-id-privatevpns@18.202.116.218:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.miwan.co.uk#(S110)
 trojan://telegram-id-privatevpns@51.21.103.98:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.miwan.co.uk#(S111)
-trojan://telegram-id-directvpn@63.35.107.18:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.miwan.co.uk#Our Channel : @DirectVPN
+trojan://telegram-id-privatevpns@13.48.119.74:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.miwan.co.uk#(S112)
 trojan://telegram-id-directvpn@3.99.74.203:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.miwan.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@15.157.8.36:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.miwan.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@3.132.32.73:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.miwan.co.uk#Our Channel : @DirectVPN
@@ -39,6 +38,7 @@ trojan://telegram-id-directvpn@18.130.216.201:22222?security=tls&amp;alpn=http/1
 trojan://telegram-id-directvpn@99.81.24.181:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.miwan.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@52.208.63.28:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.miwan.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@99.79.131.31:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.miwan.co.uk#Our Channel : @DirectVPN
+trojan://telegram-id-directvpn@52.60.255.203:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.miwan.co.uk#Our Channel : @DirectVPN
 trojan://f0eb8c92ce8946aaba856569cff1a16b@104.19.171.3:443/?type=ws&amp;host=sherasheba.com&amp;path=6b777a91&amp;security=tls&amp;sni=sherasheba.com#%F0%9F%9B%A015%40oneclickvpnkeys
 trojan://8d0de334-c1a0-44ab-9362-e7916c0d268d@104.19.155.92:443/?type=ws&amp;host=sshhiddifyc1.cpionline.cc&amp;path=%2Fu5ht27KSp8j3Z2QIPbkyFm3I&amp;security=tls&amp;sni=sshhiddifyc1.cpionline.cc#%F0%9F%9B%A010%40oneclickvpnkeys
 trojan://Telegram-V2ray_Alpha@www.wedbaz.fun:443?mode=gun&amp;security=tls&amp;alpn=h2,http/1.1&amp;fp=chrome&amp;type=grpc&amp;serviceName=Telegram: @V2ray_Alpha&amp;sni=usa-ss1.alpha2.top#%40FalconPolV2rayNG%40FalconPolV2rayNG%40FalconPolV2rayNG%40FalconPolV2rayNG%40FalconPolV2rayNG%40FalconPolV2rayNG%40FalconPolV2rayNG%40FalconPolV2rayNG%40FalconPolV2rayNG%40FalconPolV2rayNG%40FalconPolV2rayNG%40FalconPolV2rayNG
