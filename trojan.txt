@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Fri-16-Feb-2024 08:45
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Fri-16-Feb-2024 09:46
 trojan://b41dff00-bd43-11ee-a079-1239d0255272@iranserver.com:443?path=%2Fhowdy&amp;security=tls&amp;host=fr1.test3.net&amp;type=ws&amp;sni=fr1.test3.net#%40hopev2ray%F0%9F%92%9C
 trojan://7f5e4600-bd43-11ee-81eb-1239d0255272@188.114.96.75:443?path=%2Fhowdy&amp;security=tls&amp;host=de2.test3.net&amp;type=ws&amp;sni=de2.test3.net#%F0%9F%94%B4+%40hopev2ray
 trojan://telegram-id-privatevpns@15.188.170.29:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.miwan.co.uk#(S105)
@@ -57,7 +57,6 @@ trojan://c1dc3493-2298-44ab-98c1-4abccbc350d1@xibaozi.19890604.day:10837?sni=clo
 trojan://qG9K8AGnn9XH5jUqeFu96g@cdn13.cdn2cdn.com:2083?security=tls&amp;sni=cdn13.cdn2cdn.com&amp;fp=chrome&amp;type=ws&amp;path=/#.
 trojan://hXAI11P3hj@de.melov2ray.shop:2087?type=ws&amp;path=/@melov2ray,@melov2ray,@melov2ray,@melov2ray,@melov2ray,@melov2ray,@melov2ray,@melov2ray&amp;security=tls&amp;fp=chrome&amp;alpn=h2%2Chttp%2F1.1&amp;allowInsecure=1&amp;sni=De.melOV2ray.shop#@melov2ray-trojan%F0%9F%87%A9%F0%9F%87%AA
 trojan://iHq0d7fNlN@us.melobigg.site:2083?type=ws&amp;path=/@melov2ray,@melov2ray,@melov2ray,@melov2ray,@melov2ray,@melov2ray,@melov2ray,@melov2ray&amp;security=tls&amp;fp=chrome&amp;alpn=h2%2Chttp%2F1.1&amp;allowInsecure=1&amp;sni=us.MeLoBIgg.sITe#@melov2ray-trojan%F0%9F%87%BA%F0%9F%87%B8
-trojan://telegram-id-privatevpns@52.17.193.110:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.miwan.co.uk#%F0%9F%9F%A3%F0%9F%94%A5+%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%D8%B3%D8%B1%D9%88%D8%B1+%D8%A7%D8%AE%D8%AA%D8%B5%D8%A7%D8%B5%DB%8C+%D8%A8%D8%A7+%D8%B3%D8%B1%D8%B9%D8%AA+%D8%A8%D8%A7%D9%84%D8%A7+%D8%AA%D8%B6%D9%85%DB%8C%D9%86%DB%8C+%40Outlinev_2rayNG
 trojan://147669c0-cbef-11ee-b2e9-1239d0255272@fr1.test3.net:443?security=tls&amp;headerType=none&amp;type=tcp&amp;sni=irancell.ir#%E2%9A%9C%EF%B8%8FTelegram%3A+%40IP_CF
 trojan://6229112c-62ef-4a35-a96a-2c09d29f5a0a@ca-full.privateip.net:443?security=tls&amp;type=tcp&amp;headerType=none#t.me%2Fv2Line%20%7C%20%281393%29%20CA
 trojan://05699368-52c7-4ae7-bef9-bd9099718f4e@sg-full.privateip.net:443?security=tls&amp;type=tcp&amp;headerType=none#t.me%2Fv2Line%20%7C%20%281396%29%20SG
@@ -95,16 +94,9 @@ trojan://8d0de334-c1a0-44ab-9362-e7916c0d268d@zula.ir:443?security=tls&amp;sni=s
 trojan://8d0de334-c1a0-44ab-9362-e7916c0d268d@mizbanfa.net:443?security=tls&amp;sni=sshhiddifyc1.cpionline.cc&amp;alpn=h2&amp;type=grpc&amp;serviceName=u5ht27KSp8j3ZJqjJh3lW&amp;mode=gun#Irancpi_V2ray4
 trojan://01a7ed92-3ff7-4872-84a8-fcb4757783c7@clean3.cpionline.cc:443?security=tls&amp;sni=rsfndc1.cpionline.us&amp;alpn=http%2F1.1&amp;fp=chrome&amp;type=ws&amp;host=rsfndc1.cpionline.us&amp;path=%2F3D8U0cLhe2MGwH9c1eh1994#IranCPI_CDN2
 trojan://01a7ed92-3ff7-4872-84a8-fcb4757783c7@nslookup.io:443?security=tls&amp;sni=rsfrndc.foriran.nl&amp;alpn=http%2F1.1&amp;fp=chrome&amp;type=ws&amp;host=rsfrndc.foriran.nl&amp;path=%2F3D8U0cLhe2MGwH9c1eh1994#IranCPI_CDN4
-trojan://9bb27128-e6d2-4cac-bbd3-beb46c4417f8@sk01.trojanyyds.xyz:443?security=tls&amp;allowInsecure=1&amp;type=tcp#
-trojan://b3902e81-6260-4932-bcc9-708445fe40b4@frt2.sshocean.net:443?security=tls&amp;sni=frt2.sshocean.net&amp;allowInsecure=1&amp;type=tcp#
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.tokyometropolis.chernigov.ua:2053?security=tls&amp;allowInsecure=1&amp;type=tcp#
-trojan://0cdc54e5-c8e1-4350-a7b2-047e5f4c02f9@kh.mjt000.com:443?security=tls&amp;sni=kh.mjt000.com&amp;allowInsecure=1&amp;type=tcp#
-trojan://d4e41ff772c7fd45@5.44.249.42:3306?security=tls&amp;allowInsecure=1&amp;type=tcp#
-trojan://95af4fd9-3b0a-3af6-8836-982739fed565@euro.nextloink.com:16217?security=tls&amp;sni=eplcgame.com&amp;allowInsecure=1&amp;type=tcp#
-trojan://469ed42e-2905-3aec-a622-e8dae2100813@backcn.rmanluo.top:443?security=tls&amp;sni=backcn.rmanluo.top&amp;allowInsecure=1&amp;type=tcp#
-trojan://d4e41ff772c7fd45@45.11.104.94:3389?security=tls&amp;sni=sbank.ir&amp;allowInsecure=1&amp;type=tcp#
 trojan://s0ugqZIzZL@c1.shoplandtr.xyz:443?path=%2Ffoxrayiranchannel&amp;security=tls&amp;alpn=h2,http/1.1&amp;fp=chrome&amp;type=ws&amp;sni=c1.shoplandtr.xyz#join+channel+%40foxrayiran+trj
 trojan://s0ugqZIzZL@c1.shoplandtr.xyz:443?path=%2Ffoxrayiranchannel&amp;security=tls&amp;alpn=h2,http/1.1&amp;fp=chrome&amp;type=ws&amp;sni=c1.shoplandtr.xyz#join+channel+%40foxrayiran+trj
+trojan://01a7ed92-3ff7-4872-84a8-fcb4757783c7@clean3.cpionline.cc:443?path=%2F3D8U0cLhe2MGwH9c1eh1994&amp;security=tls&amp;alpn=http/1.1&amp;host=rsfndc1.cpionline.us&amp;fp=chrome&amp;type=ws&amp;sni=rsfndc1.cpionline.us#DailyV2ray
 trojan://01a7ed92-3ff7-4872-84a8-fcb4757783c7@clean3.cpionline.cc:443?path=%2F3D8U0cLhe2MGwH9c1eh1994&amp;security=tls&amp;alpn=http/1.1&amp;host=rsfndc1.cpionline.us&amp;fp=chrome&amp;type=ws&amp;sni=rsfndc1.cpionline.us#DailyV2ray
 trojan://caonima2022@ml.xxass.ml:443?sni=ml.xxass.ml#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD
 trojan://caonima2022@ml.xxass.ml:443?sni=ml.xxass.ml#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD
