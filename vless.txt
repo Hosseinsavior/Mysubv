@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Mon-19-Feb-2024 02:42
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Mon-19-Feb-2024 04:23
 vless://b75b3034-36ab-4979-beae-3d02db1b11ec@104.31.16.73:443?path=%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=always-online1.lp-airdrop.top&amp;type=ws&amp;sni=always-online1.lp-airdrop.top#%D8%A8%D8%B1%D8%A7%DB%8C+%D8%A7%D8%AA%D8%B5%D8%A7%D9%84+%D8%AF%D8%A7%D8%A6%D9%85%DB%8C+%D8%AC%D9%88%DB%8C%D9%86+%D8%B4%D9%88%F0%9F%8D%A6%40Outline_ir
 vless://a2b51931-f818-4d8a-9edc-ce1715e71193@103.184.44.222:2083?mode=gun&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;type=grpc&amp;serviceName=&amp;sni=asii.kasler.sbs#%D8%A8%D8%B1%D8%A7%DB%8C+%D8%A7%D8%AA%D8%B5%D8%A7%D9%84+%D8%AF%D8%A7%D8%A6%D9%85%DB%8C+%D8%AC%D9%88%DB%8C%D9%86+%D8%B4%D9%88%F0%9F%8D%A6%40Outline_ir
 vless://db342b2e-c973-4e58-870b-1c68d1370bfe@165.232.94.24:443?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=rnmMHzLC7nr4Hxwu4JnFSYCem_QRLLVfUde170i8jCo&amp;fp=firefox&amp;spx=%2F&amp;type=grpc&amp;serviceName=@ipV2Ray&amp;sni=*‌.brainsyrup.online&amp;sid=ccbf78a1#%D8%A8%D8%B1%D8%A7%DB%8C+%D8%A7%D8%AA%D8%B5%D8%A7%D9%84+%D8%AF%D8%A7%D8%A6%D9%85%DB%8C+%D8%AC%D9%88%DB%8C%D9%86+%D8%B4%D9%88%F0%9F%8D%A6%40Outline_ir
@@ -442,6 +442,11 @@ vless://4da74771-d93c-4680-bad2-81d8118d3ddd@bia-to2.unlimiteddev.site:8443?type
 vless://ed88d25b-98c2-4b84-87ed-96e228d86ce9@bia-to2.unlimiteddev.site:8880?type=ws&amp;security=none&amp;path=/Telegram:@UnlimitedDev?ed=2048&amp;host=unlimiteddev.xn--9iqr0tm1r4wg.co.#@UnlimitedDev-Link3
 vless://ed88d25b-98c2-4b84-87ed-96e228d86ce9 d@account.zula.ir:8880?type=ws&amp;security=none&amp;path=/Telegram:@UnlimitedDev?ed=2048&amp;host=unlimiteddev.xn--9iqr0tm1r4wg.co.#@UnlimitedDev-Link4
 vless://ed88d25b-98c2-4b84-87ed-96e228d86ce9@162.159.17.160:8880?type=ws&amp;security=none&amp;path=/Telegram:@UnlimitedDev?ed=2048&amp;host=unlimiteddev.xn--9iqr0tm1r4wg.co.#@UnlimitedDev-Link5
+vless://4b843de7-efe2-40b4-994c-6ff94a00ef9b@iranserver.com:8880?type=ws&amp;security=none&amp;path=/Telegram:@UnlimitedDev?ed=2048&amp;host=unlimiteddev.xn--9iqr0tm1r4wg.co.#@UnlimitedDev-Link1
+vless://4b843de7-efe2-40b4-994c-6ff94a00ef9b@bia-to2.unlimiteddev.site:8443?type=ws&amp;security=tls&amp;path=%2F&amp;host=unlimiteddev.xn--9iqr0tm1r4wg.co&amp;fp=chrome&amp;sni=unlimiteddev.xn--9iqr0tm1r4wg.co#@unlimiteddev-Link2(irancell)
+vless://4b843de7-efe2-40b4-994c-6ff94a00ef9b@bia-to2.unlimiteddev.site:8880?type=ws&amp;security=none&amp;path=/Telegram:@UnlimitedDev?ed=2048&amp;host=unlimiteddev.xn--9iqr0tm1r4wg.co.#@UnlimitedDev-Link3
+vless://4b843de7-efe2-40b4-994c-6ff94a00ef9b@account.zula.ir:8880?type=ws&amp;security=none&amp;path=/Telegram:@UnlimitedDev?ed=2048&amp;host=unlimiteddev.xn--9iqr0tm1r4wg.co.#@UnlimitedDev-Link4
+vless://4b843de7-efe2-40b4-994c-6ff94a00ef9b@162.159.17.160:8880?type=ws&amp;security=none&amp;path=/Telegram:@UnlimitedDev?ed=2048&amp;host=unlimiteddev.xn--9iqr0tm1r4wg.co.#@UnlimitedDev-Link5
 vless://27e87e33-b0e3-4da5-b4a4-9440f0ffe952@join_bede.vmessorg.site:8880?encryption=none&amp;security=none&amp;type=ws&amp;host=biatoo.vmessorg.xn--8ey35nnyd.site&amp;path=%2FTelegram%3A%40vmessorg-Telegram%3A%40vmessorg#%40vmessorg
 vless://27e87e33-b0e3-4da5-b4a4-9440f0ffe952@join_bede_be.vmessorg.site:8880?encryption=none&amp;security=none&amp;type=ws&amp;host=biatoo.vmessorg.xn--8ey35nnyd.site&amp;path=%2FTelegram%3A%40vmessorg-Telegram%3A%40vmessorg#%40vmessorg
 vless://60e898ad-0be4-4495-dd04-8cde9158649f@joinbede.vmessorg.site:80?encryption=none&amp;security=none&amp;type=ws&amp;host=vmessorg1.xn--54qv00ez5ar77g.co&amp;path=%2F#vmessorg
@@ -1031,6 +1036,21 @@ vless://a08e9043-4b78-45a3-f6a0-94ebfb6e8919@198.41.202.5:2083?security=tls&amp;
 vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.67.104.216:8080?security=none&amp;type=ws&amp;host=dash.irpick.sbs&amp;path=%2F#@Hope_Net-join-us-on-Telegram
 vless://232d764d-12e6-4a15-a45a-c40fdc553a95@162.159.136.234:80?security=none&amp;type=ws&amp;host=MdVpnSec.xn--85-pv2cl2k5x3fipr.org.&amp;path=%2F#@Hope_Net-join-us-on-Telegram
 vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.67.107.27:8080?security=none&amp;type=ws&amp;host=dash.irpick.sbs&amp;path=%2F#@Hope_Net-join-us-on-Telegram
+vless://a7eada76-c418-4db4-8a2f-46bbd4c5ec9b@147.45.76.85:13670?security=reality&amp;sni=www.iranserver.com&amp;type=grpc&amp;serviceName=@v2rayN_OPENAVPN,@v2rayN_OPENAVPN,@v2rayN_OPENAVPN&amp;fp=firefox&amp;pbk=dWZ3DTS14d7zMUwDbhLyolQXjLC_6NxJUbaCYDsMmDA&amp;sid=e08dad12#@Hope_Net-join-us-on-Telegram
+vless://cbaabca-abac-acba-cadb-aaccbbbaabcc@127.0.0.1:8080?security=tls&amp;type=tcp#@Hope_Net-join-us-on-Telegram
+vless://b23e01ca-e85f-42e6-ce54-a06cd957b3a5@86.104.32.130:38577?security=none&amp;type=tcp&amp;host=fast.com&amp;headerType=http#@Hope_Net-join-us-on-Telegram
+vless://ca117a00-39fd-42c9-bcea-2b4012a9a236@104.18.203.232:443?security=tls&amp;sni=tel.ArV2ray.host&amp;type=grpc&amp;serviceName=%40ArV2ray%2C%40ArV2ray%2C%40ArV2ray%2C%40ArV2ray%2C%40ArV2ray%2C%40ArV2ray%2C%40ArV2ray%2C%40ArV2ray%2C%40ArV2ray%2C%40ArV2ray%2C%40ArV2ray%2C%40ArV2ray&amp;alpn=h2%2Chttp%2F1.1#@Hope_Net-join-us-on-Telegram
+vless://b13b1198-e037-4eea-801b-d2f5f1ee82a5@104.17.68.224:443?security=tls&amp;sni=CID0pb.chainswrecker.tech&amp;type=ws&amp;host=CID0pb.chainswrecker.tech&amp;path=%2FrtTFeYq63EPAVOfclz9Q4F&amp;fp=chrome&amp;alpn=http/1.1#@Hope_Net-join-us-on-Telegram
+vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.67.213.115:8080?security=none&amp;type=ws&amp;host=dash.irpick.sbs&amp;path=%2F#@Hope_Net-join-us-on-Telegram
+vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.67.211.52:8080?security=none&amp;type=ws&amp;host=dash.irpick.sbs&amp;path=%2F#@Hope_Net-join-us-on-Telegram
+vless://8a5f34b2-eda0-4639-81e2-560d59d65d99@104.19.255.51:443?security=nonetls&amp;sni=vmessorg.xn--54qv00ez5ar77g.co&amp;type=ws&amp;host=vmessorg.xn--54qv00ez5ar77g.co.&amp;path=/Telegram:@vmessorg?ed%3D2048&amp;fp=chrome#@Hope_Net-join-us-on-Telegram
+vless://ec8d4595-9f2a-4637-9de9-c7e375286729@104.18.202.232:80?security=none&amp;type=ws&amp;host=lenovo.loq.asus.tuf.glx.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.atkfood.com&amp;path=%2Fwsssssssss#@Hope_Net-join-us-on-Telegram
+vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.67.209.235:8080?security=none&amp;type=ws&amp;host=dash.irpick.sbs&amp;path=%2F#@Hope_Net-join-us-on-Telegram
+vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.67.129.56:8080?security=none&amp;type=ws&amp;host=dash.irpick.sbs&amp;path=%2F#@Hope_Net-join-us-on-Telegram
+vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.67.220.231:8080?security=none&amp;type=ws&amp;host=dash.irpick.sbs&amp;path=%2F#@Hope_Net-join-us-on-Telegram
+vless://e30b9be7-e5a4-4210-cbdd-37cdc850c62e@104.16.4.103:2083?security=tls&amp;sni=liV2rayh.xn--mgbg0fka44dhgc.com&amp;type=grpc&amp;serviceName=%40LIGHTNING6%2C+%40LIGHTNING6&amp;fp=chrome&amp;alpn=%40mehrosaboran%2C%40mehrosaboran#@Hope_Net-join-us-on-Telegram
+vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.67.223.58:8080?security=none&amp;type=ws&amp;host=dash.irpick.sbs&amp;path=%2F#@Hope_Net-join-us-on-Telegram
+vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.67.79.102:8080?security=none&amp;type=ws&amp;host=dash.irpick.sbs&amp;path=%2F#@Hope_Net-join-us-on-Telegram
 vless://bda4be04-48bf-4df1-aaf2-6d42522eab6b@104.22.48.253:80?security=none&amp;encryption=none&amp;type=ws&amp;host=ehda.sajaditsme.com&amp;path=Path/Telegram@V2ray_alpha/?ed%3D2048#@fnet00
 vless://c4e46f2c-5fa4-4bf2-b8d4-69bb1544cee0@104.16.122.175:80?security=none&amp;encryption=none&amp;type=ws&amp;host=Gio4GI.TahaRAT.App&amp;path=/backup#@fnet00
 vless://e1a928be-e289-4aef-b92e-4106fabdf42f@172.67.204.84:80?security=none&amp;encryption=none&amp;type=ws&amp;host=mahi.kosnanatfilterchi.eu.org&amp;path=Path/Telegram@V2ray_alpha/?ed%3D2048#@fnet00
@@ -1108,11 +1128,11 @@ vless://VPNCUSTOMIZE@190.93.245.1212095?path=%2F%3Fed%3D2048&amp;security=none&a
 vless://c9ec22e7-b467-42ed-bb85-cbb2631d29b8@190.93.245.121:2095?path=%2F%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=www.V2rayAPL.VPNCUSTOMIZE.COM.&amp;type=ws#
 vless://VPNCUSTOMIZE@190.93.245.1212095?path=%2F%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=vpncustomize2V2ray.xn--4oq36ed28d.org.&amp;type=ws#
 vless://c9ec22e7…
-vless://43b72517-f334-4e11-ab21-7bce15fe7e04@pubgmobile.ahangbox.xyz:12345/?type=grpc&amp;serviceName=&amp;security=tls&amp;fp=&amp;alpn=h2%2Chttp%2F1.1#hjg-royalping_ir310GB
 vless://d68a0c9b-6048-482d-baf9-7c39009c8168@pubgmobile.ahangbox.xyz:12345/?type=grpc&amp;serviceName=&amp;security=tls&amp;fp=&amp;alpn=h2%2Chttp%2F1.1#hjg-%40royalping_ir
 vless://190462e0-c9b5-4f77-9cc1-d36c6eec2680@ahangahang.ahangbox.xyz:12345/?type=grpc&amp;serviceName=&amp;security=none#ewz-%40Royalping_ir
 vless://847d5836-06fb-4fff-824f-3e39fce238f1@ahangahang.ahangbox.xyz:12345/?type=grpc&amp;serviceName=&amp;security=none#ewz-%40Royalping_ir%20450GB
 vless://ecc6b382-9621-487e-9ad5-959dea9fc629@ahangahang.ahangbox.xyz:12345/?type=grpc&amp;serviceName=&amp;security=none#ewz-%40Royalping_ir%20460GB
+vless://adc95577-b923-4dd4-a359-ecb7cdefb8d3@ahangahang.ahangbox.xyz:12345/?type=grpc&amp;serviceName=&amp;security=none#ewz-Royalping_ir%20460GB
 vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@172.67.183.26:443?path=%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=3k.pureboy.eu.org&amp;type=ws&amp;sni=3k.pureboy.eu.org#%D8%B9%D8%B6%D9%88
 vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@172.67.183.26:443?path=%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=3k.pureboy.eu.org&amp;type=ws&amp;sni=3k.pureboy.eu.org#%D8%A7%D8%A7%D8%A7%D9%84%D8%AA
 vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@172.67.183.26:443?path=%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=3k.pureboy.eu.org&amp;type=ws&amp;sni=3k.pureboy.eu.org#%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%AA
@@ -1586,14 +1606,15 @@ vless://56743bee-c9b4-4cc7-8a27-ff89431f5175@www.legendaryking.link:8080?path=%2
 vless://7db948c9-09d3-4882-85ce-e1a390a1a644@www.legendaryking.link:443?mode=gun&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;fp=chrome&amp;type=grpc&amp;serviceName=Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram&amp;sni=radar.snapfooding.com#ThePx
 vless://VPNCUSTOMIZE--VPNCUSTOMIZE@discord.gg:80?path=%2FVPNCUSTOMIZE--VPNCUSTOMIZE%3Fed%3D1048&amp;security=none&amp;encryption=none&amp;host=xn--047h.xn--4oq36ed28d.ORG.&amp;type=ws#MCI
 vless://VPNCUSTOMIZE--VPNCUSTOMIZE@91.193.58.1:80?path=%2FVPNCUSTOMIZE-VPNCUSTOMIZE%3Fed%3D1048&amp;security=none&amp;encryption=none&amp;host=VPNCUSTOMIZE_-V2ray.xn--4OQ36ED28D.ORG.&amp;type=ws#MTN
-vless://232d764d-12e6-4a15-a45a-c40fdc553a95@162.159.136.234:80?security=none&amp;type=ws&amp;host=MdVpnSec.xn--85-pv2cl2k5x3fipr.org.&amp;path=%2F#
-vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.67.107.27:8080?security=none&amp;type=ws&amp;host=dash.irpick.sbs&amp;path=%2F#
 vless://4b1ca9d9-0088-4e56-a4cb-e5e77e9411ed@65.20.104.127:48493?security=none&amp;encryption=none&amp;host=fast.com&amp;headerType=http&amp;type=tcp#
 vless://4b1ca9d9-0088-4e56-a4cb-e5e77e9411ed@65.20.104.127:48493?security=none&amp;encryption=none&amp;host=fast.com&amp;headerType=http&amp;type=tcp#
-vless://4b1ca9d9-0088-4e56-a4cb-e5e77e9411ed@65.20.104.127:48493?security=none&amp;encryption=none&amp;host=fast.com&amp;headerType=http&amp;type=tcp#
-vless://4b1ca9d9-0088-4e56-a4cb-e5e77e9411ed@65.20.104.127:48493?security=none&amp;encryption=none&amp;host=fast.com&amp;headerType=http&amp;type=tcp#
-vless://ed88d25b-98c2-4b84-87ed-96e228d86ce9@104.20.239.70:8880?path=%2FTelegram%3A%40UnlimitedDev%3Fed&amp;security=none&amp;encryption=none&amp;host=unlimiteddev.xn--9iqr0tm1r4wg.co.&amp;type=ws#
-vless://4b1ca9d9-0088-4e56-a4cb-e5e77e9411ed@65.20.104.127:48493?security=none&amp;encryption=none&amp;host=fast.com&amp;headerType=http&amp;type=tcp#
+vless://ec8d4595-9f2a-4637-9de9-c7e375286729@104.18.202.232:80?security=none&amp;type=ws&amp;host=lenovo.loq.asus.tuf.glx.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.atkfood.com&amp;path=%2Fwsssssssss#
+vless://e30b9be7-e5a4-4210-cbdd-37cdc850c62e@104.16.4.103:2083?security=tls&amp;sni=liV2rayh.xn--mgbg0fka44dhgc.com&amp;type=grpc&amp;serviceName=%40LIGHTNING6%2C+%40LIGHTNING6&amp;fp=chrome&amp;alpn=%40mehrosaboran%2C%40mehrosaboran#
+vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.67.209.235:8080?security=none&amp;type=ws&amp;host=dash.irpick.sbs&amp;path=%2F#
+vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.67.223.58:8080?security=none&amp;type=ws&amp;host=dash.irpick.sbs&amp;path=%2F#
+vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.67.129.56:8080?security=none&amp;type=ws&amp;host=dash.irpick.sbs&amp;path=%2F#
+vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.67.79.102:8080?security=none&amp;type=ws&amp;host=dash.irpick.sbs&amp;path=%2F#
+vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.67.220.231:8080?security=none&amp;type=ws&amp;host=dash.irpick.sbs&amp;path=%2F#
 vless://4b1ca9d9-0088-4e56-a4cb-e5e77e9411ed@65.20.104.127:48493?security=none&amp;encryption=none&amp;host=fast.com&amp;headerType=http&amp;type=tcp#
 vless://4b1ca9d9-0088-4e56-a4cb-e5e77e9411ed@65.20.104.127:48493?security=none&amp;encryption=none&amp;host=fast.com&amp;headerType=http&amp;type=tcp#
 vless://SVNTEAM@mtn.vpnprosec.com:2096/?type=grpc&amp;encryption=none&amp;flow=&amp;security=tls&amp;sni=SvnTeam-V2rayNew-Two.SnappFoodi.Com&amp;alpn=h2%2Chttp%2F1.1&amp;fp=chrome#%F0%9F%87%B8%F0%9F%87%AA%22Telegram%2
@@ -1876,7 +1897,6 @@ vless://32849afc-1632-4273-9db6-833dc02a7af7@free.miladiran1.shop:2001?security=
 vless://563e4ed0-9473-4d66-aca8-e23c641042a6@free.miladiran1.shop:2002?security=none&amp;encryption=none&amp;headerType=http&amp;type=tcp#%40vipvpn_v2ray%F0%9F%92%AF
 vless://32849afc-1632-4273-9db6-833dc02a7af7@free.miladiran1.shop:2001?security=none&amp;encryption=none&amp;headerType=http&amp;type=tcp#%40vipvpn_v2ray%E2%9C%A8  
 vless://563e4ed0-9473-4d66-aca8-e23c641042a6@free.miladiran1.shop:2002?security=none&amp;encryption=none&amp;headerType=http&amp;type=tcp#%40vipvpn_v2ray%F0%9F%92%AF  
-vless://7a50ca41-d663-4231-b165-e0bfeafa59ec@chanel2.gold15.ir:443?type=grpc&amp;serviceName=okala.com&amp;mode=multi&amp;security=tls&amp;fp=chrome&amp;alpn=&amp;sni=chanel2.gold15.ir#%40beta_v2ray
 vless://7a50ca41-d663-4231-b165-e0bfeafa59ec@chanel2.gold15.ir:443?type=grpc&amp;serviceName=okala.com&amp;mode=multi&amp;security=tls&amp;fp=chrome&amp;alpn=&amp;sni=chanel2.gold15.ir#%40beta_v2ray  
 vless://51905fd3-29de-4b4e-b351-83542f1d5390@parspack.com:443?path=%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;host=biA.ALlhub.LTD&amp;fp=random&amp;type=ws&amp;sni=Bia.alLhub.Ltd#%40VorTexIRN+%F0%9F%87%A8%F0%9F%87%A6
 vless://b75b3034-36ab-4979-beae-3d02db1b11ec@test--join.outline-vpn.cloud:443?path=%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=always-online1.lp-airdrop.top&amp;type=ws&amp;sni=always-online1.lp-airdrop.top#%40VorTexIRN+%F0%9F%87%A8%F0%9F%87%A6
