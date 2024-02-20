@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Tue-20-Feb-2024 08:44
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Tue-20-Feb-2024 09:46
 trojan://telegram-id-privatevpns@13.39.248.133:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.miwan.co.uk#(S105)
 trojan://telegram-id-privatevpns@13.39.251.175:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.miwan.co.uk#(S106)
 trojan://telegram-id-privatevpns@35.179.56.7:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.miwan.co.uk#(S107)
@@ -39,8 +39,6 @@ trojan://wkmY1R4EcP@78.141.221.194:443?security=tls&amp;headerType=none&amp;type
 trojan://wkmY1R4EcP@66.42.84.121:443?security=tls&amp;headerType=none&amp;type=tcp&amp;sni=z-v2-002797.kailib.com#Channel%20id%3A%20%40ShadowProxy66%20
 trojan://wkmY1R4EcP@45.76.228.197:443?security=tls&amp;headerType=none&amp;type=tcp&amp;sni=z-v2-003263.kailib.com#Channel%20id%3A%20%40ShadowProxy66%20
 trojan://wkmY1R4EcP@45.77.167.12:443?security=tls&amp;headerType=none&amp;type=tcp&amp;sni=z-v2-003319.kailib.com#Channel%20id%3A%20%40ShadowProxy66%20
-trojan://EeECHjPg9O@www.speedtest.net:80?security=none&amp;type=ws&amp;host=ya-competitive-demo-extensions.trycloudflare.com&amp;path=%2Fapplication-services#Kiava-S5-T7
-trojan://i3hxGXiZPE@www.speedtest.net:80?security=none&amp;type=ws&amp;host=purple-tampa-tunisia-invalid.trycloudflare.com&amp;path=%2Fconnectivity-cloud#Kiava-S6-T7
 trojan://o233Smkn1m@16.171.12.59:80?security=none&amp;type=grpc&amp;serviceName=kiava&amp;mode=multi#Kiava-T15-S7
 trojan://dQDQCtns4R@162.159.138.232:443?security=tls&amp;sni=fadaei.movieland.top&amp;type=ws&amp;path=static34528&amp;host=fadaei.movieland.top#Suren%20TM
 trojan://EjecXwK17@116.203.148.62:8080?security=tls&amp;host=discord.gg&amp;headerType=http&amp;type=tcp&amp;sni=fast.jahansystem.sbs#%40Vpn_Tehran+%E2%9C%85%EF%B8%8F+%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85+%D9%85%D8%A7+%D8%B1%D9%88+%D8%A8%D8%A8%DB%8C%D9%86
