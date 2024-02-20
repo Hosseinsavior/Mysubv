@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Wed-21-Feb-2024 00:42
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Wed-21-Feb-2024 01:41
 trojan://telegram-id-privatevpns@15.236.175.225:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.miwan.co.uk#(S105)
 trojan://telegram-id-privatevpns@15.236.214.223:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.miwan.co.uk#(S106)
 trojan://telegram-id-privatevpns@18.169.80.253:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.miwan.co.uk#(S107)
@@ -75,6 +75,9 @@ trojan://user@s25.mynameismahsa.info:2053?type=ws&amp;security=tls&amp;path=%2F&
 trojan://user@s26.mynameismahsa.info:2053?type=ws&amp;security=tls&amp;path=%2F&amp;sni=s26.mynameismahsa.info#FI-S26-USA-Trojan
 trojan://qIt62I9ngq@store-free.liqshop78.cfd:2002?mode=gun&amp;security=tls&amp;alpn=h2,http/1.1&amp;type=grpc&amp;serviceName=&amp;sni=kh.darig.varzesh7-liqgroup.site#LIQ%F0%9F%87%A9%F0%9F%87%AA-FREE95-%40liq_vpn
 trojan://Ab2QrVOzmU@liq-store-tunnel.khan-milanvictory1278.site:2002?mode=gun&amp;security=tls&amp;alpn=h2,http/1.1&amp;type=grpc&amp;serviceName=&amp;sni=kh.darig.varzesh7-liqgroup.site#LIQ%F0%9F%87%A9%F0%9F%87%AA-FREE98-%40liq_vpn
+trojan://wkmY1R4EcP@45.77.161.86:443?encryption=none&amp;security=tls&amp;sni=z-v2-003314.kailib.com&amp;fp=chrome&amp;type=tcp&amp;headerType=none#%E2%9A%A1%EF%B8%8F@DeamNet+%F0%9F%87%BA%F0%9F%87%B8United+States
+trojan://ad9a59fe-b588-47ae-b55a-634ac0eeea79@sg05.421421.xyz:20230?encryption=none&amp;security=tls&amp;sni=421421.xyz&amp;fp=chrome&amp;type=tcp&amp;headerType=none#%E2%9A%A1%EF%B8%8F@DeamNet+%F0%9F%87%B8%F0%9F%87%ACSingapore
+trojan://URMDmeqB5MyqP6185HshalpUpq61DmPqus@zula.ir:443?encryption=none&amp;security=tls&amp;sni=free.jd-vpn.shop&amp;fp=chrome&amp;type=ws&amp;host=free.jd-vpn.shop&amp;path=%2F@jd_vpn&amp;headerType=none#%E2%9A%A1%EF%B8%8F@DeamNet+%F0%9F%87%A8%F0%9F%87%A6Canada
 trojan://s0ugqZIzZL@c1.shoplandtr.xyz:443?path=%2Ffoxrayiranchannel&amp;security=tls&amp;alpn=h2,http/1.1&amp;fp=chrome&amp;type=ws&amp;sni=c1.shoplandtr.xyz#join+channel+%40foxrayiran+trj
 trojan://s0ugqZIzZL@c1.shoplandtr.xyz:443?path=%2Ffoxrayiranchannel&amp;security=tls&amp;alpn=h2,http/1.1&amp;fp=chrome&amp;type=ws&amp;sni=c1.shoplandtr.xyz#join+channel+%40foxrayiran+trj
 trojan://5661d5ef-54cd-4e66-b30c-05e5de1edec6@185.22.154.254:30005?security=tls&amp;headerType=none&amp;type=tcp&amp;sni=ru01.bsawc.shop#DailyV2ray
