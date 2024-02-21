@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Wed-21-Feb-2024 23:43
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Thu-22-Feb-2024 00:41
 trojan://telegram-id-privatevpns@13.39.99.211:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.miwan.co.uk#(S105)
 trojan://telegram-id-privatevpns@13.39.202.50:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.miwan.co.uk#(S106)
 trojan://telegram-id-privatevpns@18.134.23.218:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.miwan.co.uk#(S107)
@@ -78,6 +78,7 @@ trojan://user@s25.mynameismahsa.info:2053?type=ws&amp;security=tls&amp;path=%2F&
 trojan://user@s26.mynameismahsa.info:2053?type=ws&amp;security=tls&amp;path=%2F&amp;sni=s26.mynameismahsa.info#FI-S26-USA-Trojan
 trojan://qIt62I9ngq@store-free.liqshop78.cfd:2002?mode=gun&amp;security=tls&amp;alpn=h2,http/1.1&amp;type=grpc&amp;serviceName=&amp;sni=kh.darig.varzesh7-liqgroup.site#LIQ%F0%9F%87%A9%F0%9F%87%AA-FREE95-%40liq_vpn
 trojan://Ab2QrVOzmU@liq-store-tunnel.khan-milanvictory1278.site:2002?mode=gun&amp;security=tls&amp;alpn=h2,http/1.1&amp;type=grpc&amp;serviceName=&amp;sni=kh.darig.varzesh7-liqgroup.site#LIQ%F0%9F%87%A9%F0%9F%87%AA-FREE98-%40liq_vpn
+trojan://telegram-id-privatevpns@51.20.228.3:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.miwan.co.uk#
 trojan://s0ugqZIzZL@c1.shoplandtr.xyz:443?path=%2Ffoxrayiranchannel&amp;security=tls&amp;alpn=h2,http/1.1&amp;fp=chrome&amp;type=ws&amp;sni=c1.shoplandtr.xyz#join+channel+%40foxrayiran+trj
 trojan://s0ugqZIzZL@c1.shoplandtr.xyz:443?path=%2Ffoxrayiranchannel&amp;security=tls&amp;alpn=h2,http/1.1&amp;fp=chrome&amp;type=ws&amp;sni=c1.shoplandtr.xyz#join+channel+%40foxrayiran+trj
 trojan://9Mdw86d7Cz@132.145.208.20:443?security=tls&amp;sni=no.09.ijg.cc&amp;allowInsecure=1&amp;type=tcp#3https://t.me/ShadowsocksM
