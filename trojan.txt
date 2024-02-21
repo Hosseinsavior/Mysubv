@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Thu-22-Feb-2024 00:41
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Thu-22-Feb-2024 01:41
 trojan://telegram-id-privatevpns@13.39.99.211:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.miwan.co.uk#(S105)
 trojan://telegram-id-privatevpns@13.39.202.50:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.miwan.co.uk#(S106)
 trojan://telegram-id-privatevpns@18.134.23.218:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.miwan.co.uk#(S107)
@@ -78,6 +78,7 @@ trojan://user@s25.mynameismahsa.info:2053?type=ws&amp;security=tls&amp;path=%2F&
 trojan://user@s26.mynameismahsa.info:2053?type=ws&amp;security=tls&amp;path=%2F&amp;sni=s26.mynameismahsa.info#FI-S26-USA-Trojan
 trojan://qIt62I9ngq@store-free.liqshop78.cfd:2002?mode=gun&amp;security=tls&amp;alpn=h2,http/1.1&amp;type=grpc&amp;serviceName=&amp;sni=kh.darig.varzesh7-liqgroup.site#LIQ%F0%9F%87%A9%F0%9F%87%AA-FREE95-%40liq_vpn
 trojan://Ab2QrVOzmU@liq-store-tunnel.khan-milanvictory1278.site:2002?mode=gun&amp;security=tls&amp;alpn=h2,http/1.1&amp;type=grpc&amp;serviceName=&amp;sni=kh.darig.varzesh7-liqgroup.site#LIQ%F0%9F%87%A9%F0%9F%87%AA-FREE98-%40liq_vpn
+trojan://3305b050-c9fc-11ee-8cb6-1239d0255272@15.204.240.119:443?encryption=none&amp;security=tls&amp;sni=sourceforge.net&amp;fp=chrome&amp;type=tcp&amp;headerType=none#%E2%9A%A1%EF%B8%8F@DeamNet+%F0%9F%87%BA%F0%9F%87%B8United+States
 trojan://telegram-id-privatevpns@51.20.228.3:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.miwan.co.uk#
 trojan://s0ugqZIzZL@c1.shoplandtr.xyz:443?path=%2Ffoxrayiranchannel&amp;security=tls&amp;alpn=h2,http/1.1&amp;fp=chrome&amp;type=ws&amp;sni=c1.shoplandtr.xyz#join+channel+%40foxrayiran+trj
 trojan://s0ugqZIzZL@c1.shoplandtr.xyz:443?path=%2Ffoxrayiranchannel&amp;security=tls&amp;alpn=h2,http/1.1&amp;fp=chrome&amp;type=ws&amp;sni=c1.shoplandtr.xyz#join+channel+%40foxrayiran+trj
