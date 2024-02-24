@@ -1,10 +1,10 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Sun-25-Feb-2024 01:41
-hy2://dongtaiwang.com@64.110.25.11:33337/?insecure=1&amp;sni=www.bing.com#%E2%99%BE%EF%B8%8F7%40oneclickvpnkeys
-hy2://dongtaiwang.com@51.158.54.46:44550/?insecure=1&amp;sni=bing.com#%E2%99%BE%EF%B8%8F1%40oneclickvpnkeys
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Sun-25-Feb-2024 02:43
 hy2://dongtaiwang.com@51.159.77.198:29277/?insecure=1&amp;sni=www.bing.com#%F0%9F%8E%B2t6%40oneclickvpnkeys
 hy2://dongtaiwang.com@64.110.25.11:33337/?insecure=1&amp;sni=www.bing.com#%E2%99%BE%EF%B8%8F7%40oneclickvpnkeys
 hy2://dongtaiwang.com@51.158.54.46:44550/?insecure=1&amp;sni=bing.com#%E2%99%BE%EF%B8%8F1%40oneclickvpnkeys
 hy2://dongtaiwang.com@51.159.77.198:29277/?insecure=1&amp;sni=www.bing.com#%F0%9F%8E%B2t6%40oneclickvpnkeys
+hy2://f6e4b19a3110d19d@66.135.28.59:443/?insecure=1&amp;sni=www.apple.com%0A&amp;obfs=salamander&amp;obfs-password=8c3ce17b#%F0%9F%8E%B2t7%40oneclickvpnkeys
+hy2://f6e4b19a3110d19d@[2001:19f0:1000:6daf:5400:4ff:feba:32c3]:443/?insecure=1&amp;sni=www.apple.com%0A&amp;obfs=salamander&amp;obfs-password=8c3ce17b#%F0%9F%8E%B2t8%40oneclickvpnkeys
 hy2://f6e4b19a3110d19d@[2001:19f0:1000:6daf:5400:4ff:feba:32c3]:443/?insecure=1&amp;sni=www.apple.com%0A&amp;obfs=salamander&amp;obfs-password=8c3ce17b#%E1%AF%A4%CC%B8%20%20%F0%93%88%86%0ASH%CE%9E%D0%AFVIN%E2%84%A2
 hy2://dongtaiwang.com@51.159.77.198:29277/?insecure=1&amp;sni=ELiV2RAY.eliv2.top#%E1%AF%A4%CC%B8%20%20%F0%93%88%86%0ASH%CE%9E%D0%AFVIN%E2%84%A2
 hy2://f6e4b19a3110d19d@66.135.28.59:443/?insecure=1&amp;sni=www.apple.com%0A&amp;obfs=salamander&amp;obfs-password=8c3ce17b#%E1%AF%A4%CC%B8%20%20%F0%93%88%86%0ASH%CE%9E%D0%AFVIN%E2%84%A2
