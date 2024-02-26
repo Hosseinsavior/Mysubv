@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Mon-26-Feb-2024 10:43
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Mon-26-Feb-2024 11:46
 trojan://telegram-id-privatevpns@13.41.140.59:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.miwan.co.uk#(S108)
 trojan://telegram-id-privatevpns@34.246.88.125:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.miwan.co.uk#(S109)
 trojan://telegram-id-privatevpns@52.211.171.95:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.miwan.co.uk#(S110)
@@ -14,7 +14,6 @@ trojan://telegram-id-privatevpns@52.30.246.178:22222?security=tls&amp;alpn=http/
 trojan://telegram-id-privatevpns@54.155.110.154:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.miwan.co.uk#(S120)
 trojan://telegram-id-privatevpns@51.21.41.221:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.miwan.co.uk#(S101)
 trojan://telegram-id-privatevpns@13.50.255.19:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.miwan.co.uk#(S102)
-trojan://telegram-id-directvpn@3.11.115.174:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.miwan.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@35.178.99.58:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.miwan.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@54.77.189.37:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.miwan.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@54.216.176.103:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.miwan.co.uk#Our Channel : @DirectVPN
@@ -29,6 +28,7 @@ trojan://telegram-id-directvpn@18.194.172.227:22222?security=tls&amp;alpn=http/1
 trojan://telegram-id-directvpn@3.125.67.196:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.miwan.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@13.51.186.172:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.miwan.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@51.20.21.124:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.miwan.co.uk#Our Channel : @DirectVPN
+trojan://telegram-id-directvpn@35.181.196.129:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.miwan.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@3.76.108.116:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.miwan.co.uk#%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%D8%B3%D9%84
 trojan://5661d5ef-54cd-4e66-b30c-05e5de1edec6@185.22.154.254:30005?security=tls&amp;headerType=none&amp;type=tcp&amp;sni=ru01.bsawc.shop#%40FalconPolV2rayNG
 trojan://wkmY1R4EcP@78.141.221.194:443?security=tls&amp;headerType=none&amp;type=tcp&amp;sni=z-v2-002750.kailib.com#Channel%20id%3A%20%40ShadowProxy66%20
@@ -39,8 +39,6 @@ trojan://AlaJXoIfOp@3.73.62.162:8080?security=none&amp;type=grpc&amp;serviceName
 trojan://dQDQCtns4R@162.159.138.232:443?security=tls&amp;sni=fadaei.movieland.top&amp;type=ws&amp;path=static34528&amp;host=fadaei.movieland.top#Suren%20TM
 trojan://EjecXwK17@116.203.148.62:8080?security=tls&amp;host=discord.gg&amp;headerType=http&amp;type=tcp&amp;sni=fast.jahansystem.sbs#%40Vpn_Tehran+%E2%9C%85%EF%B8%8F+%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85+%D9%85%D8%A7+%D8%B1%D9%88+%D8%A8%D8%A8%DB%8C%D9%86
 trojan://UZ5ZjBAUG@116.203.148.62:2083?security=tls&amp;host=speed.cloudflare.com&amp;headerType=http&amp;type=tcp&amp;sni=fast.jahansystem.sbs#%40Vpn_Tehran+%E2%9C%85%EF%B8%8F+%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85+%D9%85%D8%A7+%D8%B1%D9%88+%D8%A8%D8%A8%DB%8C%D9%86
-trojan://telegram-id-directvpn@51.20.21.124:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.miwan.co.uk#[
-trojan://telegram-id-privatevpns@13.50.255.19:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.miwan.co.uk#[
 trojan://cbbaaac-baca-caab-cdba-abaacbbcbacc@127.0.0.1:8080?security=tls&amp;type=tcp#@Hope_Net-join-us-on-Telegram
 trojan://cbaabca-baca-acba-cadb-aabacabccbbc@127.0.0.1:1080?security=tls&amp;type=tcp#@Hope_Net-join-us-on-Telegram
 trojan://cbbaaac-aacb-caba-dcab-abcacabcbcba@127.0.0.1:8080?security=tls&amp;type=tcp#@Hope_Net-join-us-on-Telegram
@@ -78,7 +76,6 @@ trojan://user@s26.mynameismahsa.info:2053?type=ws&amp;security=tls&amp;path=%2F&
 trojan://qIt62I9ngq@store-free.liqshop78.cfd:2002?mode=gun&amp;security=tls&amp;alpn=h2,http/1.1&amp;type=grpc&amp;serviceName=&amp;sni=kh.darig.varzesh7-liqgroup.site#LIQ%F0%9F%87%A9%F0%9F%87%AA-FREE95-%40liq_vpn
 trojan://Ab2QrVOzmU@liq-store-tunnel.khan-milanvictory1278.site:2002?mode=gun&amp;security=tls&amp;alpn=h2,http/1.1&amp;type=grpc&amp;serviceName=&amp;sni=kh.darig.varzesh7-liqgroup.site#LIQ%F0%9F%87%A9%F0%9F%87%AA-FREE98-%40liq_vpn
 trojan://293ec37c942a47938231d849a5dca9bd@220.246.88.197:443?security=tls&amp;sni=www.gpt123.one&amp;type=tcp&amp;headerType=none#%E5%85%8D%E8%B4%B9%E6%A2%AF%E5%AD%90https%3A%2F%2Ft.me%2Fmftizi
-trojan://0cdc54e5-c8e1-4350-a7b2-047e5f4c02f9@ni.mjt000.com:443/?type=tcp&amp;security=tls&amp;sni=ni.mjt000.com&amp;allowInsecure=1#
 trojan://s0ugqZIzZL@c1.shoplandtr.xyz:443?path=%2Ffoxrayiranchannel&amp;security=tls&amp;alpn=h2,http/1.1&amp;fp=chrome&amp;type=ws&amp;sni=c1.shoplandtr.xyz#join+channel+%40foxrayiran+trj
 trojan://s0ugqZIzZL@c1.shoplandtr.xyz:443?path=%2Ffoxrayiranchannel&amp;security=tls&amp;alpn=h2,http/1.1&amp;fp=chrome&amp;type=ws&amp;sni=c1.shoplandtr.xyz#join+channel+%40foxrayiran+trj
 trojan://telegram-id-privatevpns@51.20.62.209:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.miwan.co.uk#DailyV2ray
