@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Fri-01-Mar-2024 05:24
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Fri-01-Mar-2024 05:53
 trojan://telegram-id-privatevpns@51.21.51.150:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.miwan.co.uk#(S102)
 trojan://telegram-id-privatevpns@3.122.162.96:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.miwan.co.uk#(S103)
 trojan://telegram-id-privatevpns@18.194.222.239:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.miwan.co.uk#(S104)
@@ -108,6 +108,7 @@ trojan://s0ugqZIzZL@c1.shoplandtr.xyz:443?path=%2Ffoxrayiranchannel&amp;security
 trojan://s0ugqZIzZL@c1.shoplandtr.xyz:443?path=%2Ffoxrayiranchannel&amp;security=tls&amp;alpn=h2,http/1.1&amp;fp=chrome&amp;type=ws&amp;sni=c1.shoplandtr.xyz#join+channel+%40foxrayiran+trj
 trojan://qG9K8AGnn9XH5jUqeFu96g@188.114.96.3:2083?path=%2F&amp;security=tls&amp;host=cdn13.cdn2cdn.com&amp;type=ws&amp;sni=cdn13.cdn2cdn.com#%E2%9A%A1%40dailyv2ry%F0%9F%8C%B8
 trojan://qG9K8AGnn9XH5jUqeFu96g@104.16.123.175:2083?path=%2F&amp;security=tls&amp;host=cdn13.cdn2cdn.com&amp;type=ws&amp;sni=cdn13.cdn2cdn.com#%E2%9A%A1%40dailyv2ry%F0%9F%8C%B8
+trojan://wkmY1R4EcP@45.76.130.173:443?security=tls&amp;headerType=none&amp;type=tcp&amp;sni=z-v2-003289.kailib.com#%40V2ray_NG
 trojan://f035cbbc-c7fb-4d6d-8eb9-8896b0626484@172.66.213.38:2053?path=%2FrLlYCfhkhmYt2aTOdmZcpe&amp;security=tls&amp;alpn=h2&amp;host=censorshipbitesthedust.segaro.tech&amp;fp=chrome&amp;type=ws&amp;sni=censorshipbitesthedust.segaro.tech#%F0%9F%91%89+%40v2rayNG_VPN
 trojan://74965b47-8d6f-4341-87a0-6c2f8a479242@162.251.82.187:443?path=%2Fqu6dMuzr9RQ6ZPoiEejlbK65&amp;security=tls&amp;alpn=http/1.1&amp;host=tulips3.firano.fun&amp;fp=chrome&amp;type=ws&amp;sni=tulips3.firano.fun#IP+tls+WS+CDN+trojan
 trojan://caonima2022@ml.xxass.ml:443?sni=ml.xxass.ml#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD
