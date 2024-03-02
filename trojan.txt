@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Sun-03-Mar-2024 01:41
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Sun-03-Mar-2024 02:42
 trojan://telegram-id-privatevpns@18.195.87.1:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.miwan.co.uk#(S103)
 trojan://telegram-id-privatevpns@18.156.170.56:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.miwan.co.uk#(S104)
 trojan://telegram-id-privatevpns@51.44.40.92:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.miwan.co.uk#(S105)
@@ -71,6 +71,8 @@ trojan://dQDQCtns4R@162.159.138.232:443?security=tls&amp;sni=fadaei.movieland.to
 trojan://EjecXwK17@116.203.148.62:8080?security=tls&amp;host=discord.gg&amp;headerType=http&amp;type=tcp&amp;sni=fast.jahansystem.sbs#%40Vpn_Tehran+%E2%9C%85%EF%B8%8F+%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85+%D9%85%D8%A7+%D8%B1%D9%88+%D8%A8%D8%A8%DB%8C%D9%86
 trojan://UZ5ZjBAUG@116.203.148.62:2083?security=tls&amp;host=speed.cloudflare.com&amp;headerType=http&amp;type=tcp&amp;sni=fast.jahansystem.sbs#%40Vpn_Tehran+%E2%9C%85%EF%B8%8F+%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85+%D9%85%D8%A7+%D8%B1%D9%88+%D8%A8%D8%A8%DB%8C%D9%86
 trojan://xxoo@138.197.5.103:443?security=tls&amp;headerType=none&amp;type=tcp&amp;sni=us.blazeppn.info#%40Vpn_Tehran+%F0%9F%94%A5+%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85+%D9%85%D8%A7+%D8%B1%D9%88+%D8%A8%D8%A8%DB%8C%D9%86
+trojan://telegram-id-privatevpns@54.74.172.115:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.miwan.co.uk#[
+trojan://UPuumdUjgp6hFTBD_23GMQ@www.speedtest.net:443?path=%2Fwwwed&amp;security=tls&amp;alpn=h2,http/1.1&amp;host=cpanel.pharmaweb.info&amp;fp=chrome&amp;type=ws&amp;sni=cpanel.pharmaweb.info#[
 trojan://UPuumdUjgp6hFTBD_23GMQ@www.speedtest.net:443?path=%2Fwwwed&amp;security=tls&amp;alpn=h2,http/1.1&amp;host=cpanel.pharmaweb.info&amp;fp=chrome&amp;type=ws&amp;sni=cpanel.pharmaweb.info#[
 trojan://565aa5e6-15ff-3f58-b134-4ac80c744d48@dotu-krv2.03p4fad6vd.com:11049?sni=cloudflare.node-ssl.cdn-alibaba.com#%F0%9F%87%A8%F0%9F%87%B3.CN.%E4%B8%AD%E5%9B%BD.2
 trojan://208ef63f-f0df-4230-9e88-19fae1e25104@zula.ir:443?mode=gun&amp;security=tls&amp;alpn=h2&amp;fp=chrome&amp;type=grpc&amp;serviceName=SHdF0Jg0gNA3oNuhENF2N0&amp;sni=cd.vipservice.website#IP_CF
@@ -114,12 +116,10 @@ trojan://f1e100a1ed1943db94744f515f49fe7c@183.179.168.53:443?security=tls&amp;sn
 trojan://01bf864c-b3e9-4c5c-a0ca-c283225bc0e1@tiananmen.19890604.day:10808?security=tls&amp;sni=cloudflare.node-ssl.cdn-alibaba.com&amp;type=tcp&amp;headerType=none#%E5%85%B3%E6%B3%A8%E9%A2%91%E9%81%93https%3A%2F%2Ft.me%2Fmftizi
 trojan://01bf864c-b3e9-4c5c-a0ca-c283225bc0e1@tiananmen.19890604.day:10807?security=tls&amp;sni=cloudflare.node-ssl.cdn-alibaba.com&amp;type=tcp&amp;headerType=none#%E9%95%BF%E6%9C%9F%E6%9B%B4%E6%96%B0%E8%8A%82%E7%82%B9%40mftizi
 trojan://01bf864c-b3e9-4c5c-a0ca-c283225bc0e1@tank.19890604.day:10831?security=tls&amp;sni=cloudflare.node-ssl.cdn-alibaba.com&amp;type=tcp&amp;headerType=none#%E4%B8%8D%E5%AE%9A%E6%9C%9F%E6%8A%BD%E5%A5%96https%3A%2F%2Ft.me%2Fmftizi
-trojan://837e54e0-d005-11ee-8ae2-1239d0255272@104.21.69.44:443?encryption=none&amp;security=tls&amp;sni=us1.test3.net&amp;fp=chrome&amp;type=ws&amp;host=us1.test3.net&amp;path=%2Fhowdy&amp;headerType=none#%E2%9A%A1%EF%B8%8F@DeamNet+%F0%9F%87%A8%F0%9F%87%A6Canada
-trojan://e8105dfd24414268b6c7652c63731097@198.41.202.5:443?encryption=none&amp;security=tls&amp;sni=avianrecruit.com&amp;fp=chrome&amp;type=ws&amp;host=avianrecruit.com&amp;path=6b777a91&amp;headerType=none#%E2%9A%A1%EF%B8%8F@DeamNet+%F0%9F%87%BA%F0%9F%87%B8United+States
-trojan://dfbbc8de-8a4f-407d-8069-6de38d83c4e1@cdnjs.com:443?encryption=none&amp;security=tls&amp;sni=hdfy4c6.freelines.net&amp;fp=chrome&amp;type=ws&amp;host=hdfy4c6.freelines.net&amp;path=%2FQ177OZ8bzrxRWBtLTlTL&amp;headerType=none#%E2%9A%A1%EF%B8%8F@DeamNet+
-trojan://ba74833c-8c0f-4dcd-8cbc-13e3c32d3765@nl1.trojanvpn.de:2053?encryption=none&amp;security=tls&amp;sni=ftp.debian.org&amp;fp=chrome&amp;type=tcp&amp;headerType=none#%E2%9A%A1%EF%B8%8F@DeamNet+
-trojan://01a7ed92-3ff7-4872-84a8-fcb4757783c7@172.67.158.153:443?encryption=none&amp;security=tls&amp;sni=rsfndc1.cpionline.us&amp;fp=chrome&amp;type=ws&amp;host=rsfndc1.cpionline.us&amp;path=%2F3D8U0cLhe2MGwH9c1eh1994&amp;headerType=none#%E2%9A%A1%EF%B8%8F@DeamNet+
+trojan://09191dbf-e7f7-4e7d-b405-c4785ea992bf@at1.trojanvpn.de:2053?encryption=none&amp;security=tls&amp;sni=ftp.debian.org&amp;fp=chrome&amp;type=tcp&amp;headerType=none#%E2%9A%A1%EF%B8%8F@DeamNet+
 trojan://UPuumdUjgp6hFTBD_23GMQ@www.speedtest.net:443?path=%2Fwwwed&amp;security=tls&amp;alpn=h2,http/1.1&amp;host=cpanel.pharmaweb.info&amp;fp=chrome&amp;type=ws&amp;sni=cpanel.pharmaweb.info#@Capoit
+trojan://UPuumdUjgp6hFTBD_23GMQ@www.speedtest.net:443?path=%2Fwwwed&amp;security=tls&amp;alpn=h2,http/1.1&amp;host=cpanel.pharmaweb.info&amp;fp=chrome&amp;type=ws&amp;sni=cpanel.pharmaweb.info#
+trojan://UPuumdUjgp6hFTBD_23GMQ@www.speedtest.net:443?path=%2Fwwwed&amp;security=tls&amp;alpn=h2,http/1.1&amp;host=cpanel.pharmaweb.info&amp;fp=chrome&amp;type=ws&amp;sni=cpanel.pharmaweb.info#
 trojan://s0ugqZIzZL@c1.shoplandtr.xyz:443?path=%2Ffoxrayiranchannel&amp;security=tls&amp;alpn=h2,http/1.1&amp;fp=chrome&amp;type=ws&amp;sni=c1.shoplandtr.xyz#join+channel+%40foxrayiran+trj
 trojan://s0ugqZIzZL@c1.shoplandtr.xyz:443?path=%2Ffoxrayiranchannel&amp;security=tls&amp;alpn=h2,http/1.1&amp;fp=chrome&amp;type=ws&amp;sni=c1.shoplandtr.xyz#join+channel+%40foxrayiran+trj
 trojan://telegram-id-privatevpns@18.156.170.56:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.miwan.co.uk#DailyV2ray
