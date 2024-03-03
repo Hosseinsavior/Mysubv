@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Sun-03-Mar-2024 04:24
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Sun-03-Mar-2024 05:17
 hy2://b46cb204-5849-4b86-852d-8154fb8eb580@142.171.174.206:15090/?insecure=1&amp;sni=www.bing.com#%F0%9F%8E%A8c%40oneclickvpnkeys
 hy2://5f8fcf92-3682-45b2-a451-c62a70ee2de2@123.dcp.cloudns.biz:48935/?sni=123.dcp.cloudns.biz#%F0%9F%8E%A8d%40oneclickvpnkeys
 hy2://dongtaiwang.com@64.110.25.11:33337/?insecure=1&amp;sni=www.bing.com#%E2%99%BE%EF%B8%8F7%40oneclickvpnkeys
