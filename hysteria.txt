@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Mon-04-Mar-2024 19:46
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Mon-04-Mar-2024 20:43
 hy2://miaoge110.@170.64.183.54:33939/?insecure=1&amp;sni=www.bing.com#%F0%9F%94%91h4%40oneclickvpnkeys
 hy2://205c88dc-b4e8-46e7-8dec-631f67da83d3@jpmiaosu.1234567890spcloud.com:30101/?insecure=1&amp;sni=123.1234567890spcloud.com#%F0%9F%94%91h5%40oneclickvpnkeys
 hy2://205c88dc-b4e8-46e7-8dec-631f67da83d3@jpmiaosu.1234567890spcloud.com:30109/?insecure=1&amp;sni=123.1234567890spcloud.com#%F0%9F%94%91h6%40oneclickvpnkeys
