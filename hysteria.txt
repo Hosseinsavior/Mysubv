@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Mon-04-Mar-2024 13:31
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Mon-04-Mar-2024 14:57
 hy2://dongtaiwang.com@64.110.25.11:33337/?insecure=1&amp;sni=www.bing.com#%E2%99%BE%EF%B8%8F7%40oneclickvpnkeys
 hy2://dongtaiwang.com@51.158.54.46:44550/?insecure=1&amp;sni=bing.com#%E2%99%BE%EF%B8%8F1%40oneclickvpnkeys
 hy2://sTeki1&#036;re5&#33;8swohopro@78.141.215.68:443/?insecure=1&amp;sni=google.com&amp;obfs=salamander&amp;obfs-password=sTeki1%24re5%218swohopro#%F0%9F%8E%B2x1%40oneclickvpnkeys
@@ -9,5 +9,11 @@ hy2://EUNQoJAv2R@158.178.242.37:30232/?insecure=1&amp;sni=www.bing.com#%F0%9F%94
 hy2://miaoge110.@170.64.183.54:33939/?insecure=1&amp;sni=www.bing.com#%F0%9F%94%91h4%40oneclickvpnkeys
 hy2://205c88dc-b4e8-46e7-8dec-631f67da83d3@jpmiaosu.1234567890spcloud.com:30101/?insecure=1&amp;sni=123.1234567890spcloud.com#%F0%9F%94%91h5%40oneclickvpnkeys
 hy2://205c88dc-b4e8-46e7-8dec-631f67da83d3@jpmiaosu.1234567890spcloud.com:30109/?insecure=1&amp;sni=123.1234567890spcloud.com#%F0%9F%94%91h6%40oneclickvpnkeys
+hy2://dongtaiwang.com@64.110.25.11:33337/?insecure=1&amp;sni=www.bing.com#%E2%99%BE%EF%B8%8F7%40oneclickvpnkeys
+hy2://dongtaiwang.com@51.158.54.46:44550/?insecure=1&amp;sni=bing.com#%E2%99%BE%EF%B8%8F1%40oneclickvpnkeys
+hy2://sTeki1&#036;re5&#33;8swohopro@78.141.215.68:443/?insecure=1&amp;sni=google.com&amp;obfs=salamander&amp;obfs-password=sTeki1%24re5%218swohopro#%F0%9F%8E%B2x1%40oneclickvpnkeys
+hy2://fokaS4id3bretay-7rit@78.141.216.41:443/?insecure=1&amp;sni=google.com&amp;obfs=salamander&amp;obfs-password=fokaS4id3bretay-7rit#%F0%9F%8E%B2x2%40oneclickvpnkeys
+hy2://5f8fcf92-3682-45b2-a451-c62a70ee2de2@123.dcp.cloudns.biz:48935/?sni=123.dcp.cloudns.biz#%F0%9F%8E%A8d%40oneclickvpnkeys
+hy2://miaoge110.@170.64.183.54:33939/?insecure=1&amp;sni=www.bing.com#%F0%9F%94%91h4%40oneclickvpnkeys
 hy2://8c80cb0d-5ec1-48b5-bd6a-7bdc4d2e1d0a@hy2jp01.xqc.best:30002/?sni=hy2jp01.xqc.best#Hy2%20%40v2rayNG_VPN
 trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:8080?security=tls&type=tcp#%C2%A9Made%20by:%20github.com/MhdiTaheri%20%F0%9F%93%8C
